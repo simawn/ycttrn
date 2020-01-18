@@ -1,0 +1,19 @@
+{
+"coord": 
+    [ 
+        {
+            "id": 1,
+            "type": "Grocery store",
+            "name": "Provigo",
+            "longitude": 45.4641659,
+            "latitude": 73.6288878
+        },
+        {
+            "id": 2,
+            "type": "Grocery store",
+            "name": "Provigo",
+            "longitude": 45.4598259,
+            "latitude": 73.6244407
+        }
+    ]
+}

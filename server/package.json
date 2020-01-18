@@ -1,0 +1,23 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "You came to the right neighborhood",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simawn/ycttrn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simawn/ycttrn/issues"
+  },
+  "homepage": "https://github.com/simawn/ycttrn#readme",
+  "dependencies": {
+    "@turf/turf": "^5.1.6",
+    "express": "^4.17.1"
+  }
+}
