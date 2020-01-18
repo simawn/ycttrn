@@ -5,11 +5,16 @@ const app = express();
 const data = require('./db.json');
 
 filterByRadius = (lat, lon, r) => {
-    data.forEach(element => {
+    let filteredData = [];
+    data.forEach(obj => {
         const from = turf.point([lat, lon]);
-        const to = turf.point([])
-        console.log(element.latitude);
+        const to = turf.point([obj.latitude, obj.longitude])
+        const distance = turf.distance(from, to) * 1000;
+        if (distance <= r){
+            filteredData.push(obj);
+        }
     });
+    return filteredData;
 }
 
 app.get('/coords', (req, res) => {
@@ -18,8 +23,8 @@ app.get('/coords', (req, res) => {
     const longitude = queryParam.lon;
     const radius = queryParam.r;
     res.header("Content-Type",'application/json');
-    //filterByRadius(latitude, longitude, radius);
-    res.send(JSON.stringify(data));
+    filteredData = filterByRadius(latitude, longitude, radius);
+    res.send(JSON.stringify(filteredData));
 });
 
 const port = process.env.PORT || 4000;
