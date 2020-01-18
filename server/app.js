@@ -1,6 +1,7 @@
 const express = require('express');
 const turf = require('@turf/turf');
 const app = express();
+const cors = require('cors')
 
 const data = require('./db.json');
 
@@ -17,7 +18,9 @@ filterByRadius = (lat, lon, r) => {
     return filteredData;
 }
 
-app.get('/coords', (req, res) => {
+app.use(cors());
+
+app.get('/coords', cors(), (req, res) => {
     const queryParam = req.query;
     const latitude = queryParam.lat;
     const longitude = queryParam.lon;

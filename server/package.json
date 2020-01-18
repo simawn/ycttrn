@@ -18,6 +18,7 @@
   "homepage": "https://github.com/simawn/ycttrn#readme",
   "dependencies": {
     "@turf/turf": "^5.1.6",
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   }
 }
