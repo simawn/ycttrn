@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import ReactMap, { Marker } from "react-map-gl";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMapMarker } from "@fortawesome/free-solid-svg-icons";
+import {getNearbyPoints} from './APIFetch';
 
 const MAPBOX_TOKEN = process.env.REACT_APP_MAPBOX_TOKEN;
 
@@ -21,9 +22,12 @@ export default class Map extends Component {
     };
   }
 
-  selectedPoint = e => {
+  selectedPoint = (e) => {
     this.setState({
       selectedPoint: e.lngLat
+    }, async () => {
+      let res = await getNearbyPoints(this.state.selectedPoint[0], this.state.selectedPoint[1], 100);
+      console.log(res);
     });
   };
 
