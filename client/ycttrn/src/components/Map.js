@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import ReactMap from "react-map-gl";
+import ReactMap, { Marker } from "react-map-gl";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faMapMarker } from "@fortawesome/free-solid-svg-icons";
 
 const MAPBOX_TOKEN = process.env.REACT_APP_MAPBOX_TOKEN;
-
-console.log(MAPBOX_TOKEN);
 
 export default class Map extends Component {
   constructor(props) {
@@ -16,9 +16,17 @@ export default class Map extends Component {
         width: "100vw",
         height: "100vh",
         zoom: 10
-      }
+      },
+      selectedPoint: null
     };
   }
+
+  selectedPoint = e => {
+    this.setState({
+      selectedPoint: e.lngLat
+    });
+  };
+
   render() {
     return (
       <div>
@@ -26,7 +34,19 @@ export default class Map extends Component {
           {...this.state.viewport}
           mapboxApiAccessToken={MAPBOX_TOKEN}
           onViewportChange={viewport => this.setState({ viewport })}
-        ></ReactMap>
+          onClick={this.selectedPoint}
+        >
+          {/* Selection Marker*/}
+          {this.state.selectedPoint !== null && (
+            <Marker
+              key="selection"
+              latitude={this.state.selectedPoint[1]}
+              longitude={this.state.selectedPoint[0]}
+            >
+              <FontAwesomeIcon icon={faMapMarker} />
+            </Marker>
+          )}
+        </ReactMap>
       </div>
     );
   }
