@@ -2,9 +2,11 @@ import { BACKEND_IP } from "./APISettings";
 
 export let getNearbyPoints = async (lat, lon, radius) => {
   try {
-    let path = "https://randomuser.me/api/?gender=female";
-    let response = await (await fetch(path)).json();
-    return response;
+    let path = "http://127.0.0.1:4000/coords";
+    let response = await fetch(path, {
+        headers: { "Content-Type": "application/json", },
+    });
+    console.log(response);
   } catch (error) {
     console.error(error);
   }
