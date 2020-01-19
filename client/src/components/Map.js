@@ -61,17 +61,17 @@ export default class Map extends Component {
   generateIcon = type => {
     switch (type) {
       case "grocery":
-        return <FontAwesomeIcon icon={faShoppingBasket} />;
+        return <FontAwesomeIcon icon={faShoppingBasket} color="#74ba5d"/>;
       case "subway":
-        return <FontAwesomeIcon icon={faSubway} />;
+        return <FontAwesomeIcon icon={faSubway} color="#8b32bf"/>;
       case "school":
-        return <FontAwesomeIcon icon={faSchool} />;
+        return <FontAwesomeIcon icon={faSchool} color="#5d87ba"/>;
       case "health":
-        return <FontAwesomeIcon icon={faMedkit} />;
+        return <FontAwesomeIcon icon={faMedkit} color="#d9a64e"/>;
       case "bus_stop":
-        return <FontAwesomeIcon icon={faBus} />;
+        return <FontAwesomeIcon icon={faBus} color="#32bf9c"/>;
       default:
-        return <FontAwesomeIcon icon={faMapMarker} />;
+        return <FontAwesomeIcon icon={faMapMarker}/>;
     }
   };
 
@@ -148,7 +148,7 @@ export default class Map extends Component {
               latitude={this.state.selectedPoint[1]}
               longitude={this.state.selectedPoint[0]}
             >
-              <FontAwesomeIcon icon={faMapPin} />
+              <FontAwesomeIcon icon={faMapPin} color="#bf3232"/>
             </Marker>
           )}
           {/* Result markers */}
