@@ -15,6 +15,8 @@ import "react-map-gl-geocoder/dist/mapbox-gl-geocoder.css";
 
 import { getNearbyPoints } from "./APIFetch";
 import RangeSlider from "./RangeSlider";
+import Button from "@material-ui/core/Button";
+import Grid from "@material-ui/core/Grid";
 
 const MAPBOX_TOKEN = process.env.REACT_APP_MAPBOX_TOKEN;
 
@@ -73,11 +75,11 @@ export default class Map extends Component {
     }
   };
 
-  setRadius = (_radius) => {
+  setRadius = _radius => {
     this.setState({
       radius: _radius
-    })
-  }
+    });
+  };
 
   handleViewportChange = viewport => {
     this.setState({
@@ -109,7 +111,19 @@ export default class Map extends Component {
   render() {
     return (
       <div>
-        <RangeSlider setRadius={this.setRadius}/>
+        <Grid container direction="row" justify="center" alignItems="center">
+          <RangeSlider setRadius={this.setRadius} style={{margin: 10}}/>
+          <Button variant="contained" color="primary" style={{margin: 10}} onClick={() => {
+            if(this.state.selectedPoint === null){
+              alert("Select a point");
+            } else {
+              this.fetchNearbyPoints();
+            }
+          }}>
+            Find
+          </Button>
+        </Grid>
+
         <ReactMap
           ref={this.mapRef}
           {...this.state.viewport}
