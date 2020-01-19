@@ -29,7 +29,7 @@ export default class Map extends Component {
         height: "100vh",
         zoom: 10
       },
-      radius: 1000, //In meters
+      radius: 500, //In meters
       selectedPoint: null,
       nearbyPoints: []
     };
@@ -58,17 +58,17 @@ export default class Map extends Component {
   generateIcon = type => {
     switch (type) {
       case "grocery":
-        return faShoppingBasket;
+        return (<FontAwesomeIcon icon={faShoppingBasket} />);
       case "subway":
-        return faSubway;
+        return (<FontAwesomeIcon icon={faSubway} />);
       case "school":
-        return faSchool;
+        return (<FontAwesomeIcon icon={faSchool} />);
       case "health":
-        return faMedkit;
+        return (<FontAwesomeIcon icon={faMedkit} />);
       case "bus_stop":
-        return faBus;
+        return (<FontAwesomeIcon icon={faBus} />);
       default:
-        return faMapMarker;
+        return (<FontAwesomeIcon icon={faMapMarker} />);
     }
   };
 
@@ -91,7 +91,7 @@ export default class Map extends Component {
     let coords = e.result.geometry.coordinates;
     this.setState({
       selectedPoint: coords
-    });
+    }, () => this.fetchNearbyPoints());
   };
 
   mapRef = React.createRef();
@@ -132,7 +132,7 @@ export default class Map extends Component {
               latitude={point.latitude}
               longitude={point.longitude}
             >
-              <FontAwesomeIcon icon={this.generateIcon(point.type)} />
+              {this.generateIcon(point.type)}
             </Marker>
           ))}
         </ReactMap>
