@@ -1,7 +1,15 @@
 import React, { Component } from "react";
 import ReactMap, { Marker } from "react-map-gl";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMapMarker, faMapPin, faShoppingBasket, faSubway, faSchool, faMedkit, faBus } from "@fortawesome/free-solid-svg-icons";
+import {
+  faMapMarker,
+  faMapPin,
+  faShoppingBasket,
+  faSubway,
+  faSchool,
+  faMedkit,
+  faBus
+} from "@fortawesome/free-solid-svg-icons";
 import Geocoder from "react-map-gl-geocoder";
 import "react-map-gl-geocoder/dist/mapbox-gl-geocoder.css";
 
@@ -21,7 +29,7 @@ export default class Map extends Component {
         height: "100vh",
         zoom: 10
       },
-      radius: 100, //In meters
+      radius: 1000, //In meters
       selectedPoint: null,
       nearbyPoints: []
     };
@@ -32,21 +40,23 @@ export default class Map extends Component {
       {
         selectedPoint: e.lngLat
       },
-      async () => {
-        let _nearbyPoints = await getNearbyPoints(
-          this.state.selectedPoint[1],
-          this.state.selectedPoint[0],
-          this.state.radius
-        );
-        this.setState({
-          nearbyPoints: _nearbyPoints
-        });
-      }
+      () => this.fetchNearbyPoints()
     );
   };
 
-  generateIcon = (type) => {
-    switch(type) {
+  fetchNearbyPoints = async () => {
+    let _nearbyPoints = await getNearbyPoints(
+      this.state.selectedPoint[1],
+      this.state.selectedPoint[0],
+      this.state.radius
+    );
+    this.setState({
+      nearbyPoints: _nearbyPoints
+    });
+  };
+
+  generateIcon = type => {
+    switch (type) {
       case "grocery":
         return faShoppingBasket;
       case "subway":
@@ -60,7 +70,7 @@ export default class Map extends Component {
       default:
         return faMapMarker;
     }
-  }
+  };
 
   handleViewportChange = viewport => {
     this.setState({
@@ -103,6 +113,7 @@ export default class Map extends Component {
             mapboxApiAccessToken={MAPBOX_TOKEN}
             position="top-left"
             onResult={this.geocoderResult}
+            countries="ca"
           />
           {/* Selection Marker*/}
           {this.state.selectedPoint !== null && (
@@ -117,12 +128,12 @@ export default class Map extends Component {
           {/* Result markers */}
           {this.state.nearbyPoints.map(point => (
             <Marker
-            key={point.id}
-            latitude={point.latitude}
-            longitude={point.longitude}
-          >
-            <FontAwesomeIcon icon={this.generateIcon(point.type)}/>
-          </Marker>
+              key={point.id}
+              latitude={point.latitude}
+              longitude={point.longitude}
+            >
+              <FontAwesomeIcon icon={this.generateIcon(point.type)} />
+            </Marker>
           ))}
         </ReactMap>
       </div>
