@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ReactMap, { Marker } from "react-map-gl";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMapMarker } from "@fortawesome/free-solid-svg-icons";
+import { faMapMarker, faMapPin, faShoppingBasket } from "@fortawesome/free-solid-svg-icons";
 import Geocoder from "react-map-gl-geocoder";
 import "react-map-gl-geocoder/dist/mapbox-gl-geocoder.css";
 
@@ -44,6 +44,15 @@ export default class Map extends Component {
       }
     );
   };
+
+  generateIcon = (type) => {
+    switch(type) {
+      case "Grocery store":
+        return faShoppingBasket;
+      default:
+        return faMapMarker;
+    }
+  }
 
   handleViewportChange = viewport => {
     this.setState({
@@ -94,7 +103,7 @@ export default class Map extends Component {
               latitude={this.state.selectedPoint[1]}
               longitude={this.state.selectedPoint[0]}
             >
-              <FontAwesomeIcon icon={faMapMarker} />
+              <FontAwesomeIcon icon={faMapPin} />
             </Marker>
           )}
           {/* Result markers */}
@@ -104,7 +113,7 @@ export default class Map extends Component {
             latitude={point.latitude}
             longitude={point.longitude}
           >
-            <FontAwesomeIcon icon={faMapMarker} />
+            <FontAwesomeIcon icon={this.generateIcon(point.type)}/>
           </Marker>
           ))}
         </ReactMap>
