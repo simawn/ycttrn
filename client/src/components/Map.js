@@ -70,7 +70,13 @@ export default class Map extends Component {
       case "health":
         return <FontAwesomeIcon icon={faMedkit} color="#d9a64e" />;
       case "bus_stop":
-        return <FontAwesomeIcon icon={faBus} color="#32bf9c" style={{fontSize: 3, opacity: 0.5}}/>;
+        return (
+          <FontAwesomeIcon
+            icon={faBus}
+            color="#32bf9c"
+            style={{ fontSize: 3, opacity: 0.5 }}
+          />
+        );
       case "hospital":
         return <FontAwesomeIcon icon={faPlus} color="#ff1100" />;
       default:
@@ -124,7 +130,7 @@ export default class Map extends Component {
             borderRadius: 5,
             right: 0,
             margin: 10,
-            boxShadow: "0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)",
+            boxShadow: "0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)"
           }}
         >
           <Grid container direction="row" justify="center" alignItems="center">
@@ -155,6 +161,46 @@ export default class Map extends Component {
           doubleClickZoom={false} //For double click pin
           mapStyle={"mapbox://styles/mapbox/dark-v10"}
         >
+          {/* Instructions */}
+          <div
+            style={{
+              backgroundColor: "#333333",
+              color: "white",
+              position: "absolute",
+              zIndex: 1,
+              bottom: 0,
+              opacity: 0.7,
+              padding: 10,
+              margin: 10,
+              borderRadius: 5,
+              textAlign: "left"
+            }}
+          >
+            <p>
+              <FontAwesomeIcon icon={faShoppingBasket} color="#74ba5d" />
+              &nbsp;Grocery store
+            </p>
+            <p>
+              <FontAwesomeIcon icon={faSubway} color="#8b32bf" />
+              &nbsp;Metro station
+            </p>
+            <p>
+              <FontAwesomeIcon icon={faSchool} color="#5d87ba" />
+              &nbsp;School
+            </p>
+            <p>
+              <FontAwesomeIcon icon={faMedkit} color="#d9a64e" />
+              &nbsp;Medical clinic
+            </p>
+            <p>
+              <FontAwesomeIcon icon={faBus} color="#32bf9c" />
+              &nbsp;Bus stop
+            </p>
+            <p>
+              <FontAwesomeIcon icon={faPlus} color="#ff1100" />
+              &nbsp;Hospital
+            </p>
+          </div>
           {/* Search bar */}
           <Geocoder
             mapRef={this.mapRef}
@@ -171,7 +217,11 @@ export default class Map extends Component {
               latitude={this.state.selectedPoint[1]}
               longitude={this.state.selectedPoint[0]}
             >
-              <FontAwesomeIcon icon={faMapPin} color="#bf3232" style={{fontSize: 24}}/>
+              <FontAwesomeIcon
+                icon={faMapPin}
+                color="#bf3232"
+                style={{ fontSize: 24 }}
+              />
             </Marker>
           )}
           {/* Result markers */}
