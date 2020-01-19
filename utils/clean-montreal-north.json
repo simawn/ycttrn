@@ -1,0 +1,142 @@
+[
+    {
+        "id": 4001,
+        "type": "grocery",
+        "name": "Market IGA extra CDL Tellier inc.",
+        "latitude": 45.6063695,
+        "longitude": -73.6116519
+    },
+    {
+        "id": 4002,
+        "type": "grocery",
+        "name": "Grocery Store Marche",
+        "latitude": 45.59042669999999,
+        "longitude": -73.6421039
+    },
+    {
+        "id": 4003,
+        "type": "grocery",
+        "name": "SAS Supermarché",
+        "latitude": 45.5869077,
+        "longitude": -73.6431906
+    },
+    {
+        "id": 4004,
+        "type": "grocery",
+        "name": "Supermarche B G Enr",
+        "latitude": 45.6043841,
+        "longitude": -73.6221456
+    },
+    {
+        "id": 4005,
+        "type": "grocery",
+        "name": "Marché Le Pro",
+        "latitude": 45.5907784,
+        "longitude": -73.63687809999999
+    },
+    {
+        "id": 4006,
+        "type": "grocery",
+        "name": "Super C",
+        "latitude": 45.60692470000001,
+        "longitude": -73.6171926
+    },
+    {
+        "id": 4007,
+        "type": "grocery",
+        "name": "Marché Diaz",
+        "latitude": 45.6167539,
+        "longitude": -73.6286896
+    },
+    {
+        "id": 4008,
+        "type": "grocery",
+        "name": "Mail Langelier",
+        "latitude": 45.6235935,
+        "longitude": -73.623244
+    },
+    {
+        "id": 4009,
+        "type": "grocery",
+        "name": "Epicerie J D V Inc",
+        "latitude": 45.5907889,
+        "longitude": -73.6510138
+    },
+    {
+        "id": 4010,
+        "type": "grocery",
+        "name": "Euro Marché Montréal-Nord - Delivery - Fruits Vegetables Cheese Meat - Bulk Food - Wine Beer",
+        "latitude": 45.579745,
+        "longitude": -73.64282949999999
+    },
+    {
+        "id": 4011,
+        "type": "grocery",
+        "name": "Marche Monselet",
+        "latitude": 45.5848198,
+        "longitude": -73.64660669999999
+    },
+    {
+        "id": 4012,
+        "type": "grocery",
+        "name": "Le Marché Esposito",
+        "latitude": 45.605414,
+        "longitude": -73.6252909
+    },
+    {
+        "id": 4013,
+        "type": "grocery",
+        "name": "Panier Futé Coop",
+        "latitude": 45.6168887,
+        "longitude": -73.6285516
+    },
+    {
+        "id": 4014,
+        "type": "grocery",
+        "name": "Épisole Épicerie Solidaire de l'Est",
+        "latitude": 45.5896327,
+        "longitude": -73.6373128
+    },
+    {
+        "id": 4015,
+        "type": "grocery",
+        "name": "Marche Bilal",
+        "latitude": 45.5993811,
+        "longitude": -73.62647369999999
+    },
+    {
+        "id": 4016,
+        "type": "grocery",
+        "name": "Marche L'Artibonite Inc",
+        "latitude": 45.6139185,
+        "longitude": -73.6304385
+    },
+    {
+        "id": 4017,
+        "type": "grocery",
+        "name": "Mama Supermarche Antillais",
+        "latitude": 45.5967539,
+        "longitude": -73.6317002
+    },
+    {
+        "id": 4018,
+        "type": "grocery",
+        "name": "Boucherie Sanchez",
+        "latitude": 45.6023763,
+        "longitude": -73.62009239999999
+    },
+    {
+        "id": 4019,
+        "type": "grocery",
+        "name": "Marché Richelieu",
+        "latitude": 45.6062332,
+        "longitude": -73.6345985
+    },
+    {
+        "id": 4020,
+        "type": "grocery",
+        "name": "Maxi & Cie",
+        "latitude": 45.58411299999999,
+        "longitude": -73.6322228
+    }
+]

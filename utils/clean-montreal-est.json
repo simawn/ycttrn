@@ -1,0 +1,142 @@
+[
+    {
+        "id": 2001,
+        "type": "grocery",
+        "name": "Marche Montreal Est Inc",
+        "latitude": 45.6311022,
+        "longitude": -73.5003845
+    },
+    {
+        "id": 2002,
+        "type": "grocery",
+        "name": "Metro Plus St-Jean-Baptiste",
+        "latitude": 45.6414517,
+        "longitude": -73.50255369999999
+    },
+    {
+        "id": 2003,
+        "type": "grocery",
+        "name": "Marché Tradition",
+        "latitude": 45.60984999999999,
+        "longitude": -73.526208
+    },
+    {
+        "id": 2004,
+        "type": "grocery",
+        "name": "Huile & Vinaigre Épicerie Fine",
+        "latitude": 45.6392973,
+        "longitude": -73.4906642
+    },
+    {
+        "id": 2005,
+        "type": "grocery",
+        "name": "Marche Hochelaga",
+        "latitude": 45.6096342,
+        "longitude": -73.51583889999999
+    },
+    {
+        "id": 2006,
+        "type": "grocery",
+        "name": "Dépanneur Boni-Soir",
+        "latitude": 45.6322937,
+        "longitude": -73.5069133
+    },
+    {
+        "id": 2007,
+        "type": "grocery",
+        "name": "Depanneur Broadway",
+        "latitude": 45.6311056,
+        "longitude": -73.5020617
+    },
+    {
+        "id": 2008,
+        "type": "grocery",
+        "name": "Couche-Tard",
+        "latitude": 45.6261241,
+        "longitude": -73.5023551
+    },
+    {
+        "id": 2009,
+        "type": "grocery",
+        "name": "Metro Notre-Dame",
+        "latitude": 45.5943128,
+        "longitude": -73.511628
+    },
+    {
+        "id": 2010,
+        "type": "grocery",
+        "name": "Boutique chez ira Inc",
+        "latitude": 45.6103787,
+        "longitude": -73.5318501
+    },
+    {
+        "id": 2011,
+        "type": "grocery",
+        "name": "IGA extra Godin Family Pointe-aux-Trembles",
+        "latitude": 45.6579705,
+        "longitude": -73.51046029999999
+    },
+    {
+        "id": 2012,
+        "type": "grocery",
+        "name": "Le Frigo des Dieux",
+        "latitude": 45.6496961,
+        "longitude": -73.51139599999999
+    },
+    {
+        "id": 2013,
+        "type": "grocery",
+        "name": "Maxi",
+        "latitude": 45.6535795,
+        "longitude": -73.50918519999999
+    },
+    {
+        "id": 2014,
+        "type": "grocery",
+        "name": "Provigo",
+        "latitude": 45.59170599999999,
+        "longitude": -73.535823
+    },
+    {
+        "id": 2015,
+        "type": "grocery",
+        "name": "Maxi",
+        "latitude": 45.5931072,
+        "longitude": -73.5413683
+    },
+    {
+        "id": 2016,
+        "type": "grocery",
+        "name": "Les Aliments M&M",
+        "latitude": 45.5955155,
+        "longitude": -73.5347361
+    },
+    {
+        "id": 2017,
+        "type": "grocery",
+        "name": "Metro Beaubien",
+        "latitude": 45.58488,
+        "longitude": -73.5630477
+    },
+    {
+        "id": 2018,
+        "type": "grocery",
+        "name": "Metro Plus Domaine",
+        "latitude": 45.5821894,
+        "longitude": -73.542732
+    },
+    {
+        "id": 2019,
+        "type": "grocery",
+        "name": "Super C",
+        "latitude": 45.6552561,
+        "longitude": -73.5116494
+    },
+    {
+        "id": 2020,
+        "type": "grocery",
+        "name": "Super C",
+        "latitude": 45.6336471,
+        "longitude": -73.5872699
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1001,
+        "type": "grocery",
+        "name": "Adonis Downtown",
+        "latitude": 45.4905278,
+        "longitude": -73.5834737
+    },
+    {
+        "id": 1002,
+        "type": "grocery",
+        "name": "Supermarché PA du Fort",
+        "latitude": 45.4921176,
+        "longitude": -73.58223339999999
+    },
+    {
+        "id": 1003,
+        "type": "grocery",
+        "name": "Marché Lobo",
+        "latitude": 45.50974730000001,
+        "longitude": -73.5739242
+    },
+    {
+        "id": 1004,
+        "type": "grocery",
+        "name": "Segal's Market",
+        "latitude": 45.5168692,
+        "longitude": -73.57884949999999
+    },
+    {
+        "id": 1005,
+        "type": "grocery",
+        "name": "Bonjour Supermarché",
+        "latitude": 45.492295,
+        "longitude": -73.5830064
+    },
+    {
+        "id": 1006,
+        "type": "grocery",
+        "name": "FOU D'ICI",
+        "latitude": 45.506772,
+        "longitude": -73.5690072
+    },
+    {
+        "id": 1007,
+        "type": "grocery",
+        "name": "La Vieille Europe",
+        "latitude": 45.515968,
+        "longitude": -73.5767709
+    },
+    {
+        "id": 1008,
+        "type": "grocery",
+        "name": "Épicerie Coréenne et Japonaise (한국식품)",
+        "latitude": 45.4934134,
+        "longitude": -73.5799222
+    },
+    {
+        "id": 1009,
+        "type": "grocery",
+        "name": "Provigo",
+        "latitude": 45.4961417,
+        "longitude": -73.5709694
+    },
+    {
+        "id": 1010,
+        "type": "grocery",
+        "name": "Marché Oriental Jang Teu - St.Catherine 몬트리올 장터 한국식품",
+        "latitude": 45.4913277,
+        "longitude": -73.58249719999999
+    },
+    {
+        "id": 1011,
+        "type": "grocery",
+        "name": "Alexis Le Gourmand",
+        "latitude": 45.492975,
+        "longitude": -73.56867299999999
+    },
+    {
+        "id": 1012,
+        "type": "grocery",
+        "name": "Frenco",
+        "latitude": 45.5167566,
+        "longitude": -73.5786042
+    },
+    {
+        "id": 1013,
+        "type": "grocery",
+        "name": "Mizan Gourmet",
+        "latitude": 45.4931568,
+        "longitude": -73.5797661
+    },
+    {
+        "id": 1014,
+        "type": "grocery",
+        "name": "Latina Chez Carlos - Catering - Meat Seafood Cheese Shop - Coffee - Organic Wine Craft Beer",
+        "latitude": 45.4978753,
+        "longitude": -73.5800232
+    },
+    {
+        "id": 1015,
+        "type": "grocery",
+        "name": "IGA Louise Ménard - Complexe Desjardins",
+        "latitude": 45.507665,
+        "longitude": -73.563261
+    },
+    {
+        "id": 1016,
+        "type": "grocery",
+        "name": "Dispensa Italian Grocery",
+        "latitude": 45.4985187,
+        "longitude": -73.5571676
+    },
+    {
+        "id": 1017,
+        "type": "grocery",
+        "name": "IGA",
+        "latitude": 45.4892262,
+        "longitude": -73.5862464
+    },
+    {
+        "id": 1018,
+        "type": "grocery",
+        "name": "Marché 3 Piliers",
+        "latitude": 45.5274082,
+        "longitude": -73.5854476
+    },
+    {
+        "id": 1019,
+        "type": "grocery",
+        "name": "Metro Plus ETS",
+        "latitude": 45.49300340000001,
+        "longitude": -73.5645546
+    },
+    {
+        "id": 1020,
+        "type": "grocery",
+        "name": "Bio Terre - Épicerie Santé",
+        "latitude": 45.5234206,
+        "longitude": -73.6014903
+    }
+]
