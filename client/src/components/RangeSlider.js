@@ -14,8 +14,8 @@ const useStyles = makeStyles({
   }
 });
 
-const DEFAULT_VALUE = 500
-const MIN_VALUE = 10;
+const DEFAULT_VALUE = 500;
+const MIN_VALUE = 0;
 const MAX_VALUE = 1000;
 const STEP = 10;
 
@@ -25,10 +25,21 @@ export default function InputSlider(props) {
 
   const handleSliderChange = (event, newValue) => {
     setValue(newValue);
+    props.setRadius(newValue);
   };
 
   const handleInputChange = event => {
-    setValue(event.target.value === "" ? "" : Number(event.target.value));
+    let value = event.target.value === "" ? "" : Number(event.target.value);
+    if (value < MIN_VALUE) {
+      setValue(MIN_VALUE);
+      props.setRadius(MIN_VALUE);
+    } else if (value > MAX_VALUE) {
+      setValue(MAX_VALUE);
+      props.setRadius(MAX_VALUE);
+    } else {
+      setValue(value);
+      props.setRadius(value);
+    }
   };
 
   const handleBlur = () => {
@@ -42,7 +53,7 @@ export default function InputSlider(props) {
   return (
     <div className={classes.root}>
       <Typography id="input-slider" gutterBottom>
-          Radius (meters)
+        Radius (meters)
       </Typography>
       <Grid container spacing={2} alignItems="center">
         <Grid item xs>

@@ -73,6 +73,12 @@ export default class Map extends Component {
     }
   };
 
+  setRadius = (_radius) => {
+    this.setState({
+      radius: _radius
+    })
+  }
+
   handleViewportChange = viewport => {
     this.setState({
       viewport: { ...this.state.viewport, ...viewport }
@@ -103,7 +109,7 @@ export default class Map extends Component {
   render() {
     return (
       <div>
-        <RangeSlider/>
+        <RangeSlider setRadius={this.setRadius}/>
         <ReactMap
           ref={this.mapRef}
           {...this.state.viewport}
