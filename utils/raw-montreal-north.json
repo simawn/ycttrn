@@ -1,0 +1,950 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCCwEAADCbpvGvArMB8ZLb-N7U5e0KeuXiPpELe5osw0hhy4wv8kG_BLxYziCuk_k6WXTvjxhLwFEs9jjUrPD1Ll8YuEEHpcrOHeLTj9zK32EYIidtEUA9BbXLtFhtAZJiFMjF4Za4OuWYTpyU2GK5Us879F4cS-ab3LLBFQ1MRNQ7O7zDIlFzR8ASjOgkywdeKxJs5cn3gpGeMrct7Dz7Q6FgzIhDkNgu-4wtZnhD4koc2c7-5KY0arXwJG-PssB7PMbEiwF1aNiYHzeQtpcrEcqpG9jVrIrn9FlrDspuWfBLvZifCNqWnSd_8QBtyyj0QmOKbIv5U0Owr52answMVH2ePGWfEuMLioAeAo7CrZnLwZz_EhD4SFTD8cnHyHi6uOxeCz4vGhQm0b07yRMxQgz1hp-ho3pQ6VkYAQ",
+   "results" : [
+      {
+         "formatted_address" : "6190 Boul Henri-Bourassa E, Montréal-Nord, QC H1G 5X3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6063695,
+               "lng" : -73.6116519
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.60785372989273,
+                  "lng" : -73.61044222010727
+               },
+               "southwest" : {
+                  "lat" : 45.60515407010729,
+                  "lng" : -73.61314187989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "66bbfe9265bd8389c5a9279b20a819511ab1773a",
+         "name" : "Market IGA extra CDL Tellier inc.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107832015873193908367\"\u003eLuc Lavoie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwhZvuotSEOROyHh_M0BL0IeWrDgHmX4NaCdJ-CzqW4TWdObKaFHXIMLTfjkrqwKqnlTQkVgnqfYhjil8eJDJg-8DXaOyAtSOasehC7IyQUB1tUQst7Z6j8wtWOuL7zTWEhCPNweuwYVON6Z-Q2oPz-eDGhR6dyXDpv9Y91Ci3jhxauXrEOTYLg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJf50K56QfyUwRNhMRZR46mcI",
+         "plus_code" : {
+            "compound_code" : "J94Q+G8 Montréal-Nord, Montreal, Quebec",
+            "global_code" : "87Q8J94Q+G8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJf50K56QfyUwRNhMRZR46mcI",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 497
+      },
+      {
+         "formatted_address" : "3857 Rue Martial, Montréal-Nord, QC H1H 1W6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.59042669999999,
+               "lng" : -73.6421039
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.59173502989272,
+                  "lng" : -73.64070932010728
+               },
+               "southwest" : {
+                  "lat" : 45.58903537010728,
+                  "lng" : -73.64340897989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "78c8eb2883e741b91e76f1d50b594b8d90f5eb79",
+         "name" : "Grocery Store Marche",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJoapno24fyUwRmaKdmeNgUgE",
+         "plus_code" : {
+            "compound_code" : "H9R5+55 Montreal, Quebec",
+            "global_code" : "87Q8H9R5+55"
+         },
+         "rating" : 5,
+         "reference" : "ChIJoapno24fyUwRmaKdmeNgUgE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "10800 Boulevard Saint-Vital, Montréal-Nord, QC H1H 4T4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5869077,
+               "lng" : -73.6431906
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.58830582989272,
+                  "lng" : -73.64174762010728
+               },
+               "southwest" : {
+                  "lat" : 45.58560617010727,
+                  "lng" : -73.64444727989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4da27d632584d11640ca7f3e43f8d60c51a9e5f7",
+         "name" : "SAS Supermarché",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117269902346438392694\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATuuuM8H6hdQBfrkKp6iBqd4qhbJc8afLzXsqQ7lLDl7nM2Fu4-4YyR7CWeCUyiR7FdMMIoacnZV9aabCwCnxQROKBaXTn8PTf8zFeroOjmQeJ9cTNQdob_dVUblAxlY6EhCX0Dm7qMnoNy7gHgRyKYuZGhQ0CtBYY87oRMcFh1YJ4vkv8HBhtw",
+               "width" : 13632
+            }
+         ],
+         "place_id" : "ChIJcwqyK2ofyUwR0pOFPhpUC2U",
+         "plus_code" : {
+            "compound_code" : "H9P4+QP Montréal-Nord, Montreal, Quebec",
+            "global_code" : "87Q8H9P4+QP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJcwqyK2ofyUwR0pOFPhpUC2U",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 24
+      },
+      {
+         "formatted_address" : "11301 Avenue Jean-Meunier, Montréal-Nord, QC H1G 4T3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6043841,
+               "lng" : -73.6221456
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.60567472989272,
+                  "lng" : -73.62090867010728
+               },
+               "southwest" : {
+                  "lat" : 45.60297507010728,
+                  "lng" : -73.62360832989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0c610ed94738df9fc67ae99e87a4635c054a7038",
+         "name" : "Supermarche B G Enr",
+         "place_id" : "ChIJt0A1EKEfyUwRMOMJF8qEVi4",
+         "plus_code" : {
+            "compound_code" : "J93H+Q4 Montréal-Nord, Montreal, Quebec",
+            "global_code" : "87Q8J93H+Q4"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJt0A1EKEfyUwRMOMJF8qEVi4",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "10839 Pie-IX Blvd, Montréal-Nord, Quebec H1H 4A9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5907784,
+               "lng" : -73.63687809999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.59208497989271,
+                  "lng" : -73.63561757010727
+               },
+               "southwest" : {
+                  "lat" : 45.58938532010727,
+                  "lng" : -73.63831722989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "126fa27a150cc2a73b2433c99d1bc3bb7d47f9bc",
+         "name" : "Marché Le Pro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100460982675058274517\"\u003eMontréal Nord\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4L8Q_arNeYimmM_OMje_09pkZJWaqAgLWsk_3C7vPW99yR3tZ0oAI0vozVVnpX9kgkhPAtRWBW-x2BKcdgqo8Lm_7N-cb4yAevwj6XuEkHjgx5lwG_e8PthnRVVWbTN8EhDOsiKb-0UqwI5t-JY1nquQGhQ-MM2r1ovhfcZ4MvF6dZ_JOJoyEQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ545G42wfyUwRHIhLuKGqXYs",
+         "plus_code" : {
+            "compound_code" : "H9R7+86 Montreal, Quebec",
+            "global_code" : "87Q8H9R7+86"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ545G42wfyUwRHIhLuKGqXYs",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 32
+      },
+      {
+         "formatted_address" : "6000 Boul Henri-Bourassa E, Montréal-Nord, QC H1G 2T6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.60692470000001,
+               "lng" : -73.6171926
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.60819997989273,
+                  "lng" : -73.61554062010727
+               },
+               "southwest" : {
+                  "lat" : 45.60550032010729,
+                  "lng" : -73.61824027989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5836c0b26af9f089bb49860195ae3213b9aa9cd1",
+         "name" : "Super C",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113064549027847741111\"\u003eNicola Delnero\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoDVi63LtWspvEhll5cpO5omiOUv_ql8_8rfliWAN9YOgsttKR59Tn54eRX8oaeP-JOyfiDobJib5-Bydzbh98SJCdSsXNNXFud4zxY4cTtQc0ZQC-M_PioqIKKOjPZVHEhAHO8WKNwcC32uoQ_z52nubGhS4EPzxIeVVJF2d7ZDrVSBKHR5yrA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ2d6PfaQfyUwRwzs92Rn89gc",
+         "plus_code" : {
+            "compound_code" : "J94M+Q4 Montréal-Nord, Montreal, Quebec",
+            "global_code" : "87Q8J94M+Q4"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ2d6PfaQfyUwRwzs92Rn89gc",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 818
+      },
+      {
+         "formatted_address" : "5852 Boulevard Léger, Montréal-Nord, QC H1G 1K6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6167539,
+               "lng" : -73.6286896
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.61815297989272,
+                  "lng" : -73.62750522010728
+               },
+               "southwest" : {
+                  "lat" : 45.61545332010727,
+                  "lng" : -73.63020487989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3ff99a157e2ccc1f9b2a25d58f3d6bf60a4ef4ca",
+         "name" : "Marché Diaz",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103800104640731667147\"\u003eMarc Lajeunesse\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyD1a-lRTHxZFt3xNg_UQUnlE6p3Likx4m26d4lGWReEYn0RP_7hcMfvjWHyvoQYsgyV_NtNmQlKDbMC34p9QSJ6BzSdGVLZ781sMqSJ5m71y2nNNfmquA6mrLViYkuSmEhBl46A-mXpZ__3OQL4Lh-WjGhT0wGUf6LGIVRgEelWJ9G-NlhsLfw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJGQLI1pMfyUwRwVr8vm4fbPU",
+         "plus_code" : {
+            "compound_code" : "J98C+PG Montreal, Quebec",
+            "global_code" : "87Q8J98C+PG"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJGQLI1pMfyUwRwVr8vm4fbPU",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 70
+      },
+      {
+         "formatted_address" : "6425 Boulevard Léger, Montréal-Nord, QC H1G 6J7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6235935,
+               "lng" : -73.623244
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.62468857989272,
+                  "lng" : -73.62161927010727
+               },
+               "southwest" : {
+                  "lat" : 45.62198892010727,
+                  "lng" : -73.62431892989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ea26c77879c7262957bcd9c4314f233a34edcf3c",
+         "name" : "Mail Langelier",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103121588996152237120\"\u003eGUILLERMO P\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtwA03haApju6yjS8WiOn5hnyaUoxnVDeyAXEWqYgQ72Fx9fs8cgJhAhhWqkgn3dsa5akrc0gWgkXP6-aF6NYdLu0t_J4XckXRUVkWHyzodCh6tsIU8T-mXc6cpovQcTsEhCMCV4kvwPvxX8eedMvSn8cGhS5sadOQse487QcBn7Mfl3lie2rIQ",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJu6iafOwfyUwRIFmn1qAUy_I",
+         "plus_code" : {
+            "compound_code" : "J9FG+CP Montreal, Quebec",
+            "global_code" : "87Q8J9FG+CP"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJu6iafOwfyUwRIFmn1qAUy_I",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "formatted_address" : "3461 Boulevard Gouin E, Montréal-Nord, Quebec H1H 1B2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5907889,
+               "lng" : -73.6510138
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.59201302989271,
+                  "lng" : -73.64936197010728
+               },
+               "southwest" : {
+                  "lat" : 45.58931337010727,
+                  "lng" : -73.65206162989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f563454fcb3fe2eb237852812d94d32e8afd3153",
+         "name" : "Epicerie J D V Inc",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJm05FeGYfyUwRkasew1WnGmE",
+         "plus_code" : {
+            "compound_code" : "H8RX+8H Montreal, Quebec",
+            "global_code" : "87Q8H8RX+8H"
+         },
+         "rating" : 3,
+         "reference" : "ChIJm05FeGYfyUwRkasew1WnGmE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "10181 Boulevard Saint-Michel, Montréal-Nord, QC H1H 5G9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.579745,
+               "lng" : -73.64282949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.58096777989272,
+                  "lng" : -73.64164722010727
+               },
+               "southwest" : {
+                  "lat" : 45.57826812010727,
+                  "lng" : -73.64434687989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b098f7de0e1ec6a5d64e33d79a1e7359ab7a0577",
+         "name" : "Euro Marché Montréal-Nord - Delivery - Fruits Vegetables Cheese Meat - Bulk Food - Wine Beer",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103800104640731667147\"\u003eMarc Lajeunesse\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABM6-DM8vfDkojSwwCIOr4ChA42gsxVUZ7_ueh-8W6sgnX3pO7GxbvnlbDLE0i30hoVmreKkVhvPrEKzCsNWWKEX7IozN7Pejyqdz4QazNDlTeI9uOEx8PAcvoUqzEKWNEhCtRjfNfiKY7NCHb3d7HYFoGhTdPyUa0dpFtYQD1wU7hLPm8gBP1w",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJM88lNEcfyUwRtToYS8jcr4M",
+         "plus_code" : {
+            "compound_code" : "H9H4+VV Montréal-Nord, Montreal, Quebec",
+            "global_code" : "87Q8H9H4+VV"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJM88lNEcfyUwRtToYS8jcr4M",
+         "types" : [
+            "grocery_or_supermarket",
+            "bakery",
+            "supermarket",
+            "liquor_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 296
+      },
+      {
+         "formatted_address" : "3380 Rue Monselet, Montréal-Nord, QC H1H 1Z7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5848198,
+               "lng" : -73.64660669999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.58622397989271,
+                  "lng" : -73.64531292010729
+               },
+               "southwest" : {
+                  "lat" : 45.58352432010727,
+                  "lng" : -73.64801257989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b2ab49a5ad02d9474797ff278984e503a88db75d",
+         "name" : "Marche Monselet",
+         "place_id" : "ChIJA_gHdEIfyUwREmRyobg_-9s",
+         "plus_code" : {
+            "compound_code" : "H9M3+W9 Montreal, Quebec",
+            "global_code" : "87Q8H9M3+W9"
+         },
+         "rating" : 1.5,
+         "reference" : "ChIJA_gHdEIfyUwREmRyobg_-9s",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "5375 Boul Henri-Bourassa E, Montréal-Nord, QC H1G 2T1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.605414,
+               "lng" : -73.6252909
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.60665527989271,
+                  "lng" : -73.62403792010728
+               },
+               "southwest" : {
+                  "lat" : 45.60395562010727,
+                  "lng" : -73.62673757989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9634e10d83fca659f73f6a909db7f7c3b91c9f5e",
+         "name" : "Le Marché Esposito",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107735549523852402944\"\u003eIsidor Patrick\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALpZZH0cLb-HqdxUsq11ZAMmpgr_dNwGj3_RolCA25cC_oplMlrIVMusro2feaSNgz_QMxy_lkWiy1UK1DjPpVG6Y4X_UqakF6h7CTnwywyFS7uvtzqZqJ6D3aYPr5UiXEhCRXhZe8kRc4fKvSBbg3p7YGhTtfiiA9p74mm7lODaPraARQioVzQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ7yq89k8fyUwRuXHR_Y5LqLQ",
+         "plus_code" : {
+            "compound_code" : "J94F+5V Montréal-Nord, Montreal, Quebec",
+            "global_code" : "87Q8J94F+5V"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ7yq89k8fyUwRuXHR_Y5LqLQ",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 164
+      },
+      {
+         "formatted_address" : "5872 Boulevard Léger Local 12, Montréal-Nord, QC H1G 5X5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6168887,
+               "lng" : -73.62855159999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.61829477989271,
+                  "lng" : -73.62739097010729
+               },
+               "southwest" : {
+                  "lat" : 45.61559512010727,
+                  "lng" : -73.63009062989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c515804560dd34a37d2d2ad41fe06b0df77fb550",
+         "name" : "Panier Futé Coop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101996580388459554348\"\u003emodzv3 hack\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAu8DnaazCZWRIdlCwvkKaNQamZm9w7IL7OFpS5KVPt27-7GN2J5hCZhYNyoOUwfePzpkdb1XzZG1DA0j2t8ABCO_ObdyMZo56XDEu9tLnpsnI7OSE8Ibi0GgDzolKVjbKEhCgArpykp21IsRGbiAoqHr7GhRrRs3Au4psaPPW-FsRR_3C3v2ENA",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJf1SYPnEfyUwRoQgTkTq_FOw",
+         "plus_code" : {
+            "compound_code" : "J98C+QH Montréal-Nord, Montreal, Quebec",
+            "global_code" : "87Q8J98C+QH"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJf1SYPnEfyUwRoQgTkTq_FOw",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "4058 Rue Monselet #110, Montréal-Nord, Quebec H1H 2C5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5896327,
+               "lng" : -73.6373128
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.59103757989271,
+                  "lng" : -73.63602022010727
+               },
+               "southwest" : {
+                  "lat" : 45.58833792010726,
+                  "lng" : -73.63871987989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "bd16dd82e0e5ef3de528354e0f6ed1d0963a1aa4",
+         "name" : "Épisole Épicerie Solidaire de l'Est",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJAQAAAL8fyUwRTUa8n2GtiFw",
+         "plus_code" : {
+            "compound_code" : "H9Q7+V3 Montreal, Quebec",
+            "global_code" : "87Q8H9Q7+V3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJAQAAAL8fyUwRTUa8n2GtiFw",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "5053 Rue de Charleroi, Montréal-Nord, QC H1G 2Z6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5993811,
+               "lng" : -73.62647369999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.60068937989272,
+                  "lng" : -73.62508082010729
+               },
+               "southwest" : {
+                  "lat" : 45.59798972010727,
+                  "lng" : -73.62778047989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e513432f5f9e593cf48b915e1fc604b25f7bb040",
+         "name" : "Marche Bilal",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJmY5M_AofyUwRzkiT9y3m7xc",
+         "plus_code" : {
+            "compound_code" : "H9XF+QC Montreal, Quebec",
+            "global_code" : "87Q8H9XF+QC"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJmY5M_AofyUwRzkiT9y3m7xc",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 14
+      },
+      {
+         "formatted_address" : "5594 Boulevard Léger, Montréal-Nord, QC H1G 4N2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6139185,
+               "lng" : -73.6304385
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.61530687989271,
+                  "lng" : -73.62922042010727
+               },
+               "southwest" : {
+                  "lat" : 45.61260722010727,
+                  "lng" : -73.63192007989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "33ea9fcdced32e0b3341fdaf725c2c45c678acbe",
+         "name" : "Marche L'Artibonite Inc",
+         "place_id" : "ChIJz_8l-JAfyUwRhH0Abv74aeQ",
+         "plus_code" : {
+            "compound_code" : "J979+HR Montreal, Quebec",
+            "global_code" : "87Q8J979+HR"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJz_8l-JAfyUwRhH0Abv74aeQ",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "4757 Rue de Charleroi, Montréal-Nord, QC H1H 1V3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5967539,
+               "lng" : -73.6317002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.59802907989272,
+                  "lng" : -73.63027187010728
+               },
+               "southwest" : {
+                  "lat" : 45.59532942010728,
+                  "lng" : -73.63297152989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "356d9193c752f19091bf73bc8846a3b8a99badd9",
+         "name" : "Mama Supermarche Antillais",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106398300254651663298\"\u003eruth henry\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbyfnmWSUnW0zM988IncPIMuzujbP_XdfIysNv9z5nRJc8eqLSdp0pgMlOgg6jo3ZCM2xBW2ILDwZTWAv3W1Mcc13xVlwi9SLtPSSKccY1NLXt0T2InRzc1DJP2cvmigAEhA2MKu_BcB-Nhw4HKnspwheGhQa1Zl9ZZ_6sJw-9lLjTSpOadTAKw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJGz0BT3MfyUwRMtOWUIkwQOs",
+         "plus_code" : {
+            "compound_code" : "H9W9+P8 Montréal-Nord, Montreal, Quebec",
+            "global_code" : "87Q8H9W9+P8"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJGz0BT3MfyUwRMtOWUIkwQOs",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 25
+      },
+      {
+         "formatted_address" : "5510 Rue de Charleroi, Montréal-Nord, QC H1G 3A7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6023763,
+               "lng" : -73.62009239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.60377872989271,
+                  "lng" : -73.61880052010727
+               },
+               "southwest" : {
+                  "lat" : 45.60107907010727,
+                  "lng" : -73.62150017989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1f9e67f662aa22e2ef8065897ee4c44534949ef7",
+         "name" : "Boucherie Sanchez",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118174429087517581216\"\u003eAntonio Arruda\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAA_Br4j0Vx0sXS-jiJw8Vs7K4i6LTF4We_rdDHzYu2Dkp_Y3sKsRnU6MogNVEOqBxoKBUX_FwEnJkzAp6SFt_zxBPxayHSiPVQg9q_HepRSENpxdzX5w5VXR87Q0U9JM6NEhBRReRiHqSjN8aLhMl_ecnVGhRLKfANU7wL3bxueBc_dfryoALayA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJX2ZbMKcfyUwRL6y39uxH9I8",
+         "plus_code" : {
+            "compound_code" : "J92H+XX Montreal, Quebec",
+            "global_code" : "87Q8J92H+XX"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJX2ZbMKcfyUwRL6y39uxH9I8",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 27
+      },
+      {
+         "formatted_address" : "5051 Rue Perras, Montréal, QC H1G 1X1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6062332,
+               "lng" : -73.6345985
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.60751592989272,
+                  "lng" : -73.63317852010728
+               },
+               "southwest" : {
+                  "lat" : 45.60481627010728,
+                  "lng" : -73.63587817989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "840843d8792ea0c0912cc13bac71a3b809c9a39b",
+         "name" : "Marché Richelieu",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117965081474175760724\"\u003eMarché Richelieu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGPLYSzfM82P2QMSQNzkgTham9ztiz_TXmkrgQSNqd1VN3iAwazSMZMc8_5JEqVqgZAyrOgunm4r-4uv8JWIW7FI-OaZQwX1oLNmkeEEJ5Nx-ex2JdS-HU9dLhtEtcRm6EhAEl400H_j3fsUmb8wtU8qMGhR_0MrjzabSWcr0YPbwUK9MuNSnrg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJfUClXJwfyUwRiHxo4soHqhw",
+         "plus_code" : {
+            "compound_code" : "J948+F5 Montréal-Nord, Montreal, Quebec",
+            "global_code" : "87Q8J948+F5"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJfUClXJwfyUwRiHxo4soHqhw",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 17
+      },
+      {
+         "formatted_address" : "10200 Pie-IX Blvd, Montréal-Nord, Quebec H1H 3Z1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.58411299999999,
+               "lng" : -73.63222279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.58557137989272,
+                  "lng" : -73.63066132010728
+               },
+               "southwest" : {
+                  "lat" : 45.58287172010727,
+                  "lng" : -73.63336097989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ea321bbea3c6643bac68460baeea32828a45a958",
+         "name" : "Maxi & Cie",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113064549027847741111\"\u003eNicola Delnero\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfWAxBFvtWwc4GjSnlgxaxQdj99F8ENoUF8uOV7PVKy8Q3XmOczy6nz6o2ryrBj7TkfOnr8kZeQXp-dVXAhL2bJlmbfPXhco9FQkY_WiRKrVg30Rcn0XQ4ZuDcc-LQ41iEhDudsBVXHiR_2nPvarOewFfGhT21_CwF84JLr6UWy1vxhGQZNAs9A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJhSfz3RUfyUwRa7-psexPZOU",
+         "plus_code" : {
+            "compound_code" : "H9M9+J4 Montréal-Nord, Montreal, Quebec",
+            "global_code" : "87Q8H9M9+J4"
+         },
+         "rating" : 4,
+         "reference" : "ChIJhSfz3RUfyUwRa7-psexPZOU",
+         "types" : [
+            "grocery_or_supermarket",
+            "pharmacy",
+            "bakery",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1264
+      }
+   ],
+   "status" : "OK"
+}

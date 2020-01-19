@@ -1,0 +1,142 @@
+[
+    {
+        "id": 3001,
+        "type": "grocery",
+        "name": "Epicure Market",
+        "latitude": 45.4599471,
+        "longitude": -73.6628563
+    },
+    {
+        "id": 3002,
+        "type": "grocery",
+        "name": "Bol De Fruits De Qualites",
+        "latitude": 45.4528614,
+        "longitude": -73.64564270000001
+    },
+    {
+        "id": 3003,
+        "type": "grocery",
+        "name": "Provigo",
+        "latitude": 45.4641667,
+        "longitude": -73.62888889999999
+    },
+    {
+        "id": 3004,
+        "type": "grocery",
+        "name": "Supermarché Akhavan",
+        "latitude": 45.46666,
+        "longitude": -73.62284799999999
+    },
+    {
+        "id": 3005,
+        "type": "grocery",
+        "name": "Beso Boutique (Magasin)",
+        "latitude": 45.4617388,
+        "longitude": -73.6572374
+    },
+    {
+        "id": 3006,
+        "type": "grocery",
+        "name": "Super C",
+        "latitude": 45.4567971,
+        "longitude": -73.6287006
+    },
+    {
+        "id": 3007,
+        "type": "grocery",
+        "name": "Marché Oriental Jang Teu - St.Jacques 몬트리올 장터 한국식품",
+        "latitude": 45.45868,
+        "longitude": -73.62787
+    },
+    {
+        "id": 3008,
+        "type": "grocery",
+        "name": "I'Epicerie Moderne",
+        "latitude": 45.469249,
+        "longitude": -73.61802999999999
+    },
+    {
+        "id": 3009,
+        "type": "grocery",
+        "name": "Provigo",
+        "latitude": 45.459826,
+        "longitude": -73.62443999999999
+    },
+    {
+        "id": 3010,
+        "type": "grocery",
+        "name": "Metro Somerled",
+        "latitude": 45.4665613,
+        "longitude": -73.6398736
+    },
+    {
+        "id": 3011,
+        "type": "grocery",
+        "name": "Marche Al Amana Inc",
+        "latitude": 45.465965,
+        "longitude": -73.6242975
+    },
+    {
+        "id": 3012,
+        "type": "grocery",
+        "name": "Montreal Korean & Japanese Foods",
+        "latitude": 45.4672737,
+        "longitude": -73.62279509999999
+    },
+    {
+        "id": 3013,
+        "type": "grocery",
+        "name": "Nacho Villa Tortilla Montreal",
+        "latitude": 45.4584348,
+        "longitude": -73.61481640000001
+    },
+    {
+        "id": 3014,
+        "type": "grocery",
+        "name": "Westmount Market",
+        "latitude": 45.47688429999999,
+        "longitude": -73.6061367
+    },
+    {
+        "id": 3015,
+        "type": "grocery",
+        "name": "Fruiterie Maruti",
+        "latitude": 45.45881869999999,
+        "longitude": -73.6615501
+    },
+    {
+        "id": 3016,
+        "type": "grocery",
+        "name": "Marche Jarry",
+        "latitude": 45.4618607,
+        "longitude": -73.59747469999999
+    },
+    {
+        "id": 3017,
+        "type": "grocery",
+        "name": "IGA Plaza Monk",
+        "latitude": 45.4521034,
+        "longitude": -73.59393399999999
+    },
+    {
+        "id": 3018,
+        "type": "grocery",
+        "name": "Le Marché Esposito",
+        "latitude": 45.470572,
+        "longitude": -73.61633599999999
+    },
+    {
+        "id": 3019,
+        "type": "grocery",
+        "name": "Mizan Gourmet",
+        "latitude": 45.4931568,
+        "longitude": -73.5797661
+    },
+    {
+        "id": 3020,
+        "type": "grocery",
+        "name": "Provigo",
+        "latitude": 45.4583333,
+        "longitude": -73.58805559999999
+    }
+]
