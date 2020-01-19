@@ -8,8 +8,8 @@ const data = require('./db.json');
 filterByRadius = (lat, lon, r) => {
     let filteredData = [];
     data.forEach(obj => {
-        const from = turf.point([lat, lon]);
-        const to = turf.point([obj.latitude, obj.longitude])
+        const from = turf.point([lon, lat]);
+        const to = turf.point([obj.longitude, obj.latitude])
         const distance = turf.distance(from, to) * 1000;
         if (distance <= r){
             filteredData.push(obj);

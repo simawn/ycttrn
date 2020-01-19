@@ -29,7 +29,7 @@ export default class Map extends Component {
     this.setState({
       selectedPoint: e.lngLat
     }, () => {
-      getNearbyPoints();
+      getNearbyPoints(this.state.selectedPoint[1], this.state.selectedPoint[0], 10000000);
     });
   };
 
