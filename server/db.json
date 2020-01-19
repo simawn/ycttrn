@@ -64517,5 +64517,285 @@
   "name": "Edward Murphy Elementary School",
   "latitude": 45.5821105,
   "longitude": -73.5337898
+},
+{
+  "id": 10001,
+  "type": "health",
+  "name": "Alpha Medic",
+  "latitude": 45.4949479,
+  "longitude": -73.5772507
+},
+{
+  "id": 10002,
+  "type": "health",
+  "name": "RocklandMD - Downtown Montreal",
+  "latitude": 45.4965858,
+  "longitude": -73.5811307
+},
+{
+  "id": 10003,
+  "type": "health",
+  "name": "Metro-Medic Medical Clinic",
+  "latitude": 45.496554,
+  "longitude": -73.5812048
+},
+{
+  "id": 10004,
+  "type": "health",
+  "name": "Crea-MeD, Private Medical Clinic in Montreal",
+  "latitude": 45.5030204,
+  "longitude": -73.5747669
+},
+{
+  "id": 10005,
+  "type": "health",
+  "name": "Clinique Medic Elle",
+  "latitude": 45.493736,
+  "longitude": -73.58365979999999
+},
+{
+  "id": 10006,
+  "type": "health",
+  "name": "Westmount Square Health Group",
+  "latitude": 45.4875263,
+  "longitude": -73.5874118
+},
+{
+  "id": 10007,
+  "type": "health",
+  "name": "Passport Health Centre-Ville Montréal Clinique Santé-Voyage",
+  "latitude": 45.5015546,
+  "longitude": -73.57453459999999
+},
+{
+  "id": 10008,
+  "type": "health",
+  "name": "Les Cours Medical Centre",
+  "latitude": 45.501211,
+  "longitude": -73.57376239999999
+},
+{
+  "id": 10009,
+  "type": "health",
+  "name": "Clinique Medicale Des 2 Tours",
+  "latitude": 45.5010233,
+  "longitude": -73.564439
+},
+{
+  "id": 10010,
+  "type": "health",
+  "name": "Institut de la Rétine Médicale de Montréal / Institute of Medical Retina of Montreal",
+  "latitude": 45.4888683,
+  "longitude": -73.58052599999999
+},
+{
+  "id": 10011,
+  "type": "health",
+  "name": "Clinique Medicale Diamant",
+  "latitude": 45.5002934,
+  "longitude": -73.6301639
+},
+{
+  "id": 10012,
+  "type": "health",
+  "name": "Clinique du Voyageur du Grand Montréal - Montréal Centre-Ville",
+  "latitude": 45.497526,
+  "longitude": -73.567193
+},
+{
+  "id": 10013,
+  "type": "health",
+  "name": "Super-Clinique Medicale et Centre de Physiotherapie Forcemedic",
+  "latitude": 45.54218,
+  "longitude": -73.612507
+},
+{
+  "id": 10014,
+  "type": "health",
+  "name": "MunkMD Dermatology Clinic",
+  "latitude": 45.4965723,
+  "longitude": -73.5811793
+},
+{
+  "id": 10015,
+  "type": "health",
+  "name": "Queen Elizabeth Health Complex",
+  "latitude": 45.4744921,
+  "longitude": -73.6066994
+},
+{
+  "id": 10016,
+  "type": "health",
+  "name": "Centre de Kinésiologie Appliquée de Montréal",
+  "latitude": 45.4883661,
+  "longitude": -73.5768171
+},
+{
+  "id": 10017,
+  "type": "health",
+  "name": "Centre de perfusion de Montréal",
+  "latitude": 45.4937205,
+  "longitude": -73.5836357
+},
+{
+  "id": 10018,
+  "type": "health",
+  "name": "Private Medical Clinic Montreal - ExcelleMD",
+  "latitude": 45.5328826,
+  "longitude": -73.6538667
+},
+{
+  "id": 10019,
+  "type": "health",
+  "name": "Centre de Santé Meraki",
+  "latitude": 45.4907519,
+  "longitude": -73.5843919
+},
+{
+  "id": 10020,
+  "type": "health",
+  "name": "Promed Medical Centre",
+  "latitude": 45.50109,
+  "longitude": -73.57135699999999
+},
+{
+  "id": 11001,
+  "type": "health",
+  "name": "CLSC Metro",
+  "latitude": 45.4945406,
+  "longitude": -73.5809309
+},
+{
+  "id": 11002,
+  "type": "health",
+  "name": "CLSC de St-Henri",
+  "latitude": 45.4788276,
+  "longitude": -73.583788
+},
+{
+  "id": 11003,
+  "type": "health",
+  "name": "CLSC Montréal-Nord",
+  "latitude": 45.60698559999999,
+  "longitude": -73.6200369
+},
+{
+  "id": 11004,
+  "type": "health",
+  "name": "CLSC Saint Catherine",
+  "latitude": 45.5105943,
+  "longitude": -73.5629387
+},
+{
+  "id": 11005,
+  "type": "health",
+  "name": "CLSC de la Visitation",
+  "latitude": 45.5209783,
+  "longitude": -73.5589171
+},
+{
+  "id": 11006,
+  "type": "health",
+  "name": "CLSC Parc Extension",
+  "latitude": 45.5295752,
+  "longitude": -73.62100769999999
+},
+{
+  "id": 11007,
+  "type": "health",
+  "name": "CLSC de Benny Farm",
+  "latitude": 45.4655113,
+  "longitude": -73.6315789
+},
+{
+  "id": 11008,
+  "type": "health",
+  "name": "CLSC of Ville-Émard",
+  "latitude": 45.45718189999999,
+  "longitude": -73.5893115
+},
+{
+  "id": 11009,
+  "type": "health",
+  "name": "CLSC du Plateau-Mont-Royal",
+  "latitude": 45.5363181,
+  "longitude": -73.5739384
+},
+{
+  "id": 11010,
+  "type": "health",
+  "name": "CLSC Cote Des Neiges",
+  "latitude": 45.4983003,
+  "longitude": -73.62704049999999
+},
+{
+  "id": 11011,
+  "type": "health",
+  "name": "CLSC de Rosemont",
+  "latitude": 45.5426805,
+  "longitude": -73.5619245
+},
+{
+  "id": 11012,
+  "type": "health",
+  "name": "CLSC de Villeray",
+  "latitude": 45.5513929,
+  "longitude": -73.6208489
+},
+{
+  "id": 11013,
+  "type": "health",
+  "name": "CLSC Parthenais",
+  "latitude": 45.53099940000001,
+  "longitude": -73.5597894
+},
+{
+  "id": 11014,
+  "type": "health",
+  "name": "CLSC St-Louis-Du-Parc",
+  "latitude": 45.5199682,
+  "longitude": -73.5869111
+},
+{
+  "id": 11015,
+  "type": "health",
+  "name": "CLSC de La Petite-Patrie",
+  "latitude": 45.534644,
+  "longitude": -73.60524769999999
+},
+{
+  "id": 11016,
+  "type": "health",
+  "name": "CLSC Saint-Michel",
+  "latitude": 45.5654415,
+  "longitude": -73.6084558
+},
+{
+  "id": 11017,
+  "type": "health",
+  "name": "CLSC d'Ahuntsic",
+  "latitude": 45.560648,
+  "longitude": -73.665982
+},
+{
+  "id": 11018,
+  "type": "health",
+  "name": "CLSC Olivier-Guimond",
+  "latitude": 45.5749396,
+  "longitude": -73.54773329999999
+},
+{
+  "id": 11019,
+  "type": "health",
+  "name": "CLSC de Bordeaux-Cartierville",
+  "latitude": 45.5412145,
+  "longitude": -73.6904958
+},
+{
+  "id": 11020,
+  "type": "health",
+  "name": "CLSC de Hochelaga-Maisonneuve",
+  "latitude": 45.5514409,
+  "longitude": -73.54106159999999
 }
   ]
