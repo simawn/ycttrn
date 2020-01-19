@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ReactMap, { Marker } from "react-map-gl";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMapMarker, faMapPin, faShoppingBasket } from "@fortawesome/free-solid-svg-icons";
+import { faMapMarker, faMapPin, faShoppingBasket, faSubway } from "@fortawesome/free-solid-svg-icons";
 import Geocoder from "react-map-gl-geocoder";
 import "react-map-gl-geocoder/dist/mapbox-gl-geocoder.css";
 
@@ -49,6 +49,8 @@ export default class Map extends Component {
     switch(type) {
       case "Grocery store":
         return faShoppingBasket;
+      case "subway":
+        return faSubway;
       default:
         return faMapMarker;
     }
