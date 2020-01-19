@@ -63257,5 +63257,565 @@
       "name": "STATION ST-MICHEL",
       "latitude": 45.55956,
       "longitude": -73.600002
-    }
+    },
+    {
+      "id": 4001,
+      "type": "grocery",
+      "name": "Market IGA extra CDL Tellier inc.",
+      "latitude": 45.6063695,
+      "longitude": -73.6116519
+  },
+  {
+      "id": 4002,
+      "type": "grocery",
+      "name": "Grocery Store Marche",
+      "latitude": 45.59042669999999,
+      "longitude": -73.6421039
+  },
+  {
+      "id": 4003,
+      "type": "grocery",
+      "name": "SAS Supermarché",
+      "latitude": 45.5869077,
+      "longitude": -73.6431906
+  },
+  {
+      "id": 4004,
+      "type": "grocery",
+      "name": "Supermarche B G Enr",
+      "latitude": 45.6043841,
+      "longitude": -73.6221456
+  },
+  {
+      "id": 4005,
+      "type": "grocery",
+      "name": "Marché Le Pro",
+      "latitude": 45.5907784,
+      "longitude": -73.63687809999999
+  },
+  {
+      "id": 4006,
+      "type": "grocery",
+      "name": "Super C",
+      "latitude": 45.60692470000001,
+      "longitude": -73.6171926
+  },
+  {
+      "id": 4007,
+      "type": "grocery",
+      "name": "Marché Diaz",
+      "latitude": 45.6167539,
+      "longitude": -73.6286896
+  },
+  {
+      "id": 4008,
+      "type": "grocery",
+      "name": "Mail Langelier",
+      "latitude": 45.6235935,
+      "longitude": -73.623244
+  },
+  {
+      "id": 4009,
+      "type": "grocery",
+      "name": "Epicerie J D V Inc",
+      "latitude": 45.5907889,
+      "longitude": -73.6510138
+  },
+  {
+      "id": 4010,
+      "type": "grocery",
+      "name": "Euro Marché Montréal-Nord - Delivery - Fruits Vegetables Cheese Meat - Bulk Food - Wine Beer",
+      "latitude": 45.579745,
+      "longitude": -73.64282949999999
+  },
+  {
+      "id": 4011,
+      "type": "grocery",
+      "name": "Marche Monselet",
+      "latitude": 45.5848198,
+      "longitude": -73.64660669999999
+  },
+  {
+      "id": 4012,
+      "type": "grocery",
+      "name": "Le Marché Esposito",
+      "latitude": 45.605414,
+      "longitude": -73.6252909
+  },
+  {
+      "id": 4013,
+      "type": "grocery",
+      "name": "Panier Futé Coop",
+      "latitude": 45.6168887,
+      "longitude": -73.6285516
+  },
+  {
+      "id": 4014,
+      "type": "grocery",
+      "name": "Épisole Épicerie Solidaire de l'Est",
+      "latitude": 45.5896327,
+      "longitude": -73.6373128
+  },
+  {
+      "id": 4015,
+      "type": "grocery",
+      "name": "Marche Bilal",
+      "latitude": 45.5993811,
+      "longitude": -73.62647369999999
+  },
+  {
+      "id": 4016,
+      "type": "grocery",
+      "name": "Marche L'Artibonite Inc",
+      "latitude": 45.6139185,
+      "longitude": -73.6304385
+  },
+  {
+      "id": 4017,
+      "type": "grocery",
+      "name": "Mama Supermarche Antillais",
+      "latitude": 45.5967539,
+      "longitude": -73.6317002
+  },
+  {
+      "id": 4018,
+      "type": "grocery",
+      "name": "Boucherie Sanchez",
+      "latitude": 45.6023763,
+      "longitude": -73.62009239999999
+  },
+  {
+      "id": 4019,
+      "type": "grocery",
+      "name": "Marché Richelieu",
+      "latitude": 45.6062332,
+      "longitude": -73.6345985
+  },
+  {
+      "id": 4020,
+      "type": "grocery",
+      "name": "Maxi & Cie",
+      "latitude": 45.58411299999999,
+      "longitude": -73.6322228
+  },
+  {
+    "id": 1001,
+    "type": "grocery",
+    "name": "Adonis Downtown",
+    "latitude": 45.4905278,
+    "longitude": -73.5834737
+},
+{
+    "id": 1002,
+    "type": "grocery",
+    "name": "Supermarché PA du Fort",
+    "latitude": 45.4921176,
+    "longitude": -73.58223339999999
+},
+{
+    "id": 1003,
+    "type": "grocery",
+    "name": "Marché Lobo",
+    "latitude": 45.50974730000001,
+    "longitude": -73.5739242
+},
+{
+    "id": 1004,
+    "type": "grocery",
+    "name": "Segal's Market",
+    "latitude": 45.5168692,
+    "longitude": -73.57884949999999
+},
+{
+    "id": 1005,
+    "type": "grocery",
+    "name": "Bonjour Supermarché",
+    "latitude": 45.492295,
+    "longitude": -73.5830064
+},
+{
+    "id": 1006,
+    "type": "grocery",
+    "name": "FOU D'ICI",
+    "latitude": 45.506772,
+    "longitude": -73.5690072
+},
+{
+    "id": 1007,
+    "type": "grocery",
+    "name": "La Vieille Europe",
+    "latitude": 45.515968,
+    "longitude": -73.5767709
+},
+{
+    "id": 1008,
+    "type": "grocery",
+    "name": "Épicerie Coréenne et Japonaise (한국식품)",
+    "latitude": 45.4934134,
+    "longitude": -73.5799222
+},
+{
+    "id": 1009,
+    "type": "grocery",
+    "name": "Provigo",
+    "latitude": 45.4961417,
+    "longitude": -73.5709694
+},
+{
+    "id": 1010,
+    "type": "grocery",
+    "name": "Marché Oriental Jang Teu - St.Catherine 몬트리올 장터 한국식품",
+    "latitude": 45.4913277,
+    "longitude": -73.58249719999999
+},
+{
+    "id": 1011,
+    "type": "grocery",
+    "name": "Alexis Le Gourmand",
+    "latitude": 45.492975,
+    "longitude": -73.56867299999999
+},
+{
+    "id": 1012,
+    "type": "grocery",
+    "name": "Frenco",
+    "latitude": 45.5167566,
+    "longitude": -73.5786042
+},
+{
+    "id": 1013,
+    "type": "grocery",
+    "name": "Mizan Gourmet",
+    "latitude": 45.4931568,
+    "longitude": -73.5797661
+},
+{
+    "id": 1014,
+    "type": "grocery",
+    "name": "Latina Chez Carlos - Catering - Meat Seafood Cheese Shop - Coffee - Organic Wine Craft Beer",
+    "latitude": 45.4978753,
+    "longitude": -73.5800232
+},
+{
+    "id": 1015,
+    "type": "grocery",
+    "name": "IGA Louise Ménard - Complexe Desjardins",
+    "latitude": 45.507665,
+    "longitude": -73.563261
+},
+{
+    "id": 1016,
+    "type": "grocery",
+    "name": "Dispensa Italian Grocery",
+    "latitude": 45.4985187,
+    "longitude": -73.5571676
+},
+{
+    "id": 1017,
+    "type": "grocery",
+    "name": "IGA",
+    "latitude": 45.4892262,
+    "longitude": -73.5862464
+},
+{
+    "id": 1018,
+    "type": "grocery",
+    "name": "Marché 3 Piliers",
+    "latitude": 45.5274082,
+    "longitude": -73.5854476
+},
+{
+    "id": 1019,
+    "type": "grocery",
+    "name": "Metro Plus ETS",
+    "latitude": 45.49300340000001,
+    "longitude": -73.5645546
+},
+{
+    "id": 1020,
+    "type": "grocery",
+    "name": "Bio Terre - Épicerie Santé",
+    "latitude": 45.5234206,
+    "longitude": -73.6014903
+},
+{
+  "id": 2001,
+  "type": "grocery",
+  "name": "Marche Montreal Est Inc",
+  "latitude": 45.6311022,
+  "longitude": -73.5003845
+},
+{
+  "id": 2002,
+  "type": "grocery",
+  "name": "Metro Plus St-Jean-Baptiste",
+  "latitude": 45.6414517,
+  "longitude": -73.50255369999999
+},
+{
+  "id": 2003,
+  "type": "grocery",
+  "name": "Marché Tradition",
+  "latitude": 45.60984999999999,
+  "longitude": -73.526208
+},
+{
+  "id": 2004,
+  "type": "grocery",
+  "name": "Huile & Vinaigre Épicerie Fine",
+  "latitude": 45.6392973,
+  "longitude": -73.4906642
+},
+{
+  "id": 2005,
+  "type": "grocery",
+  "name": "Marche Hochelaga",
+  "latitude": 45.6096342,
+  "longitude": -73.51583889999999
+},
+{
+  "id": 2006,
+  "type": "grocery",
+  "name": "Dépanneur Boni-Soir",
+  "latitude": 45.6322937,
+  "longitude": -73.5069133
+},
+{
+  "id": 2007,
+  "type": "grocery",
+  "name": "Depanneur Broadway",
+  "latitude": 45.6311056,
+  "longitude": -73.5020617
+},
+{
+  "id": 2008,
+  "type": "grocery",
+  "name": "Couche-Tard",
+  "latitude": 45.6261241,
+  "longitude": -73.5023551
+},
+{
+  "id": 2009,
+  "type": "grocery",
+  "name": "Metro Notre-Dame",
+  "latitude": 45.5943128,
+  "longitude": -73.511628
+},
+{
+  "id": 2010,
+  "type": "grocery",
+  "name": "Boutique chez ira Inc",
+  "latitude": 45.6103787,
+  "longitude": -73.5318501
+},
+{
+  "id": 2011,
+  "type": "grocery",
+  "name": "IGA extra Godin Family Pointe-aux-Trembles",
+  "latitude": 45.6579705,
+  "longitude": -73.51046029999999
+},
+{
+  "id": 2012,
+  "type": "grocery",
+  "name": "Le Frigo des Dieux",
+  "latitude": 45.6496961,
+  "longitude": -73.51139599999999
+},
+{
+  "id": 2013,
+  "type": "grocery",
+  "name": "Maxi",
+  "latitude": 45.6535795,
+  "longitude": -73.50918519999999
+},
+{
+  "id": 2014,
+  "type": "grocery",
+  "name": "Provigo",
+  "latitude": 45.59170599999999,
+  "longitude": -73.535823
+},
+{
+  "id": 2015,
+  "type": "grocery",
+  "name": "Maxi",
+  "latitude": 45.5931072,
+  "longitude": -73.5413683
+},
+{
+  "id": 2016,
+  "type": "grocery",
+  "name": "Les Aliments M&M",
+  "latitude": 45.5955155,
+  "longitude": -73.5347361
+},
+{
+  "id": 2017,
+  "type": "grocery",
+  "name": "Metro Beaubien",
+  "latitude": 45.58488,
+  "longitude": -73.5630477
+},
+{
+  "id": 2018,
+  "type": "grocery",
+  "name": "Metro Plus Domaine",
+  "latitude": 45.5821894,
+  "longitude": -73.542732
+},
+{
+  "id": 2019,
+  "type": "grocery",
+  "name": "Super C",
+  "latitude": 45.6552561,
+  "longitude": -73.5116494
+},
+{
+  "id": 2020,
+  "type": "grocery",
+  "name": "Super C",
+  "latitude": 45.6336471,
+  "longitude": -73.5872699
+},
+{
+  "id": 3001,
+  "type": "grocery",
+  "name": "Epicure Market",
+  "latitude": 45.4599471,
+  "longitude": -73.6628563
+},
+{
+  "id": 3002,
+  "type": "grocery",
+  "name": "Bol De Fruits De Qualites",
+  "latitude": 45.4528614,
+  "longitude": -73.64564270000001
+},
+{
+  "id": 3003,
+  "type": "grocery",
+  "name": "Provigo",
+  "latitude": 45.4641667,
+  "longitude": -73.62888889999999
+},
+{
+  "id": 3004,
+  "type": "grocery",
+  "name": "Supermarché Akhavan",
+  "latitude": 45.46666,
+  "longitude": -73.62284799999999
+},
+{
+  "id": 3005,
+  "type": "grocery",
+  "name": "Beso Boutique (Magasin)",
+  "latitude": 45.4617388,
+  "longitude": -73.6572374
+},
+{
+  "id": 3006,
+  "type": "grocery",
+  "name": "Super C",
+  "latitude": 45.4567971,
+  "longitude": -73.6287006
+},
+{
+  "id": 3007,
+  "type": "grocery",
+  "name": "Marché Oriental Jang Teu - St.Jacques 몬트리올 장터 한국식품",
+  "latitude": 45.45868,
+  "longitude": -73.62787
+},
+{
+  "id": 3008,
+  "type": "grocery",
+  "name": "I'Epicerie Moderne",
+  "latitude": 45.469249,
+  "longitude": -73.61802999999999
+},
+{
+  "id": 3009,
+  "type": "grocery",
+  "name": "Provigo",
+  "latitude": 45.459826,
+  "longitude": -73.62443999999999
+},
+{
+  "id": 3010,
+  "type": "grocery",
+  "name": "Metro Somerled",
+  "latitude": 45.4665613,
+  "longitude": -73.6398736
+},
+{
+  "id": 3011,
+  "type": "grocery",
+  "name": "Marche Al Amana Inc",
+  "latitude": 45.465965,
+  "longitude": -73.6242975
+},
+{
+  "id": 3012,
+  "type": "grocery",
+  "name": "Montreal Korean & Japanese Foods",
+  "latitude": 45.4672737,
+  "longitude": -73.62279509999999
+},
+{
+  "id": 3013,
+  "type": "grocery",
+  "name": "Nacho Villa Tortilla Montreal",
+  "latitude": 45.4584348,
+  "longitude": -73.61481640000001
+},
+{
+  "id": 3014,
+  "type": "grocery",
+  "name": "Westmount Market",
+  "latitude": 45.47688429999999,
+  "longitude": -73.6061367
+},
+{
+  "id": 3015,
+  "type": "grocery",
+  "name": "Fruiterie Maruti",
+  "latitude": 45.45881869999999,
+  "longitude": -73.6615501
+},
+{
+  "id": 3016,
+  "type": "grocery",
+  "name": "Marche Jarry",
+  "latitude": 45.4618607,
+  "longitude": -73.59747469999999
+},
+{
+  "id": 3017,
+  "type": "grocery",
+  "name": "IGA Plaza Monk",
+  "latitude": 45.4521034,
+  "longitude": -73.59393399999999
+},
+{
+  "id": 3018,
+  "type": "grocery",
+  "name": "Le Marché Esposito",
+  "latitude": 45.470572,
+  "longitude": -73.61633599999999
+},
+{
+  "id": 3019,
+  "type": "grocery",
+  "name": "Mizan Gourmet",
+  "latitude": 45.4931568,
+  "longitude": -73.5797661
+},
+{
+  "id": 3020,
+  "type": "grocery",
+  "name": "Provigo",
+  "latitude": 45.4583333,
+  "longitude": -73.58805559999999
+}
   ]
