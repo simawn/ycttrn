@@ -4,13 +4,13 @@
         "type": "Grocery store",
         "name": "Provigo",
         "latitude": 45.4641659,
-        "longitude": 73.6288878
+        "longitude": -73.6288878
     },
     {
         "id": 2,
         "type": "Grocery store",
         "name": "Provigo",
         "latitude": 45.4598259,
-        "longitude": 73.6244407
+        "longitude": -73.6244407
     }
 ]
