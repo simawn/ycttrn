@@ -150,6 +150,7 @@ export default class Map extends Component {
           onViewportChange={this.handleViewportChange}
           onDblClick={this.selectedPoint}
           doubleClickZoom={false} //For double click pin
+          mapStyle={"mapbox://styles/mapbox/dark-v10"}
         >
           {/* Search bar */}
           <Geocoder
