@@ -14,6 +14,7 @@ import Geocoder from "react-map-gl-geocoder";
 import "react-map-gl-geocoder/dist/mapbox-gl-geocoder.css";
 
 import { getNearbyPoints } from "./APIFetch";
+import RangeSlider from "./RangeSlider";
 
 const MAPBOX_TOKEN = process.env.REACT_APP_MAPBOX_TOKEN;
 
@@ -102,6 +103,7 @@ export default class Map extends Component {
   render() {
     return (
       <div>
+        <RangeSlider/>
         <ReactMap
           ref={this.mapRef}
           {...this.state.viewport}
