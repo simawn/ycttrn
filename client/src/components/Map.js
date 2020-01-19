@@ -14,6 +14,7 @@ import {
 import Geocoder from "react-map-gl-geocoder";
 import "react-map-gl-geocoder/dist/mapbox-gl-geocoder.css";
 
+import logoSmall from "../assets/ycttrn-logo-400-crop.png";
 import { getNearbyPoints } from "./APIFetch";
 import RangeSlider from "./RangeSlider";
 import Button from "@material-ui/core/Button";
@@ -161,6 +162,36 @@ export default class Map extends Component {
           doubleClickZoom={false} //For double click pin
           mapStyle={"mapbox://styles/mapbox/dark-v10"}
         >
+          {/* Logo */}
+          <div
+            style={{
+              backgroundImage: `url(${logoSmall})`,
+              position: "absolute",
+              zIndex: 1,
+              height: 180,
+              width: 400,
+              backgroundRepeat: "no-repeat",
+              left: "50%",
+              transform: "translate(-200px)",
+              color: "white"
+            }}
+          >
+            <p
+              style={{
+                bottom: -36,
+                left: "50%",
+                transform: "translate(-50%)",
+                margin: "auto",
+                position: "absolute",
+                backgroundColor: "#333333",
+                padding: 5,
+                borderRadius: 5,
+                opacity: 0.5
+              }}
+            >
+              Double click the map to add a pin. Scroll to zoom.
+            </p>
+          </div>
           {/* Instructions */}
           <div
             style={{
