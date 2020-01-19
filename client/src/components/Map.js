@@ -69,7 +69,7 @@ export default class Map extends Component {
       case "health":
         return <FontAwesomeIcon icon={faMedkit} color="#d9a64e" />;
       case "bus_stop":
-        return <FontAwesomeIcon icon={faBus} color="#32bf9c" />;
+        return <FontAwesomeIcon icon={faBus} color="#32bf9c" style={{fontSize: 10, opacity: 0.5}}/>;
       default:
         return <FontAwesomeIcon icon={faMapMarker} />;
     }
@@ -168,7 +168,7 @@ export default class Map extends Component {
               latitude={this.state.selectedPoint[1]}
               longitude={this.state.selectedPoint[0]}
             >
-              <FontAwesomeIcon icon={faMapPin} color="#bf3232" />
+              <FontAwesomeIcon icon={faMapPin} color="#bf3232" style={{fontSize: 24}}/>
             </Marker>
           )}
           {/* Result markers */}
