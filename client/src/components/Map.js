@@ -61,17 +61,17 @@ export default class Map extends Component {
   generateIcon = type => {
     switch (type) {
       case "grocery":
-        return <FontAwesomeIcon icon={faShoppingBasket} color="#74ba5d"/>;
+        return <FontAwesomeIcon icon={faShoppingBasket} color="#74ba5d" />;
       case "subway":
-        return <FontAwesomeIcon icon={faSubway} color="#8b32bf"/>;
+        return <FontAwesomeIcon icon={faSubway} color="#8b32bf" />;
       case "school":
-        return <FontAwesomeIcon icon={faSchool} color="#5d87ba"/>;
+        return <FontAwesomeIcon icon={faSchool} color="#5d87ba" />;
       case "health":
-        return <FontAwesomeIcon icon={faMedkit} color="#d9a64e"/>;
+        return <FontAwesomeIcon icon={faMedkit} color="#d9a64e" />;
       case "bus_stop":
-        return <FontAwesomeIcon icon={faBus} color="#32bf9c"/>;
+        return <FontAwesomeIcon icon={faBus} color="#32bf9c" />;
       default:
-        return <FontAwesomeIcon icon={faMapMarker}/>;
+        return <FontAwesomeIcon icon={faMapMarker} />;
     }
   };
 
@@ -111,18 +111,36 @@ export default class Map extends Component {
   render() {
     return (
       <div>
-        <Grid container direction="row" justify="center" alignItems="center">
-          <RangeSlider setRadius={this.setRadius} style={{margin: 10}}/>
-          <Button variant="contained" color="primary" style={{margin: 10}} onClick={() => {
-            if(this.state.selectedPoint === null){
-              alert("Select a point");
-            } else {
-              this.fetchNearbyPoints();
-            }
-          }}>
-            Find
-          </Button>
-        </Grid>
+        <div
+          style={{
+            position: "absolute",
+            zIndex: 1,
+            backgroundColor: "white",
+            padding: 10,
+            borderRadius: 5,
+            right: 0,
+            margin: 10,
+            boxShadow: "0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)",
+          }}
+        >
+          <Grid container direction="row" justify="center" alignItems="center">
+            <RangeSlider setRadius={this.setRadius} style={{ margin: 10 }} />
+            <Button
+              variant="contained"
+              color="primary"
+              style={{ margin: 10 }}
+              onClick={() => {
+                if (this.state.selectedPoint === null) {
+                  alert("Select a point");
+                } else {
+                  this.fetchNearbyPoints();
+                }
+              }}
+            >
+              Find
+            </Button>
+          </Grid>
+        </div>
 
         <ReactMap
           ref={this.mapRef}
@@ -148,7 +166,7 @@ export default class Map extends Component {
               latitude={this.state.selectedPoint[1]}
               longitude={this.state.selectedPoint[0]}
             >
-              <FontAwesomeIcon icon={faMapPin} color="#bf3232"/>
+              <FontAwesomeIcon icon={faMapPin} color="#bf3232" />
             </Marker>
           )}
           {/* Result markers */}
