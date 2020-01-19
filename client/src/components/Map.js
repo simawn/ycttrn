@@ -8,7 +8,8 @@ import {
   faSubway,
   faSchool,
   faMedkit,
-  faBus
+  faBus,
+  faPlus
 } from "@fortawesome/free-solid-svg-icons";
 import Geocoder from "react-map-gl-geocoder";
 import "react-map-gl-geocoder/dist/mapbox-gl-geocoder.css";
@@ -69,7 +70,9 @@ export default class Map extends Component {
       case "health":
         return <FontAwesomeIcon icon={faMedkit} color="#d9a64e" />;
       case "bus_stop":
-        return <FontAwesomeIcon icon={faBus} color="#32bf9c" style={{fontSize: 10, opacity: 0.5}}/>;
+        return <FontAwesomeIcon icon={faBus} color="#32bf9c" style={{fontSize: 3, opacity: 0.5}}/>;
+      case "hospital":
+        return <FontAwesomeIcon icon={faPlus} color="#ff1100" />;
       default:
         return <FontAwesomeIcon icon={faMapMarker} />;
     }
