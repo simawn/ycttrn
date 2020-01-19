@@ -27,7 +27,7 @@ export default class Map extends Component {
         longitude: -73.5673,
         width: "100vw",
         height: "100vh",
-        zoom: 10
+        zoom: 13
       },
       radius: 500, //In meters
       selectedPoint: null,
@@ -58,17 +58,17 @@ export default class Map extends Component {
   generateIcon = type => {
     switch (type) {
       case "grocery":
-        return (<FontAwesomeIcon icon={faShoppingBasket} />);
+        return <FontAwesomeIcon icon={faShoppingBasket} />;
       case "subway":
-        return (<FontAwesomeIcon icon={faSubway} />);
+        return <FontAwesomeIcon icon={faSubway} />;
       case "school":
-        return (<FontAwesomeIcon icon={faSchool} />);
+        return <FontAwesomeIcon icon={faSchool} />;
       case "health":
-        return (<FontAwesomeIcon icon={faMedkit} />);
+        return <FontAwesomeIcon icon={faMedkit} />;
       case "bus_stop":
-        return (<FontAwesomeIcon icon={faBus} />);
+        return <FontAwesomeIcon icon={faBus} />;
       default:
-        return (<FontAwesomeIcon icon={faMapMarker} />);
+        return <FontAwesomeIcon icon={faMapMarker} />;
     }
   };
 
@@ -89,9 +89,12 @@ export default class Map extends Component {
 
   geocoderResult = e => {
     let coords = e.result.geometry.coordinates;
-    this.setState({
-      selectedPoint: coords
-    }, () => this.fetchNearbyPoints());
+    this.setState(
+      {
+        selectedPoint: coords
+      },
+      () => this.fetchNearbyPoints()
+    );
   };
 
   mapRef = React.createRef();
@@ -104,7 +107,8 @@ export default class Map extends Component {
           {...this.state.viewport}
           mapboxApiAccessToken={MAPBOX_TOKEN}
           onViewportChange={this.handleViewportChange}
-          onClick={this.selectedPoint}
+          onDblClick={this.selectedPoint}
+          doubleClickZoom={false} //For double click pin
         >
           {/* Search bar */}
           <Geocoder
