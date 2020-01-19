@@ -21,15 +21,20 @@ export default class Map extends Component {
         height: "100vh",
         zoom: 10
       },
-      selectedPoint: null
+      radius: 10000,
+      selectedPoint: null,
+      nearbyPoints: []
     };
   }
 
   selectedPoint = e => {
     this.setState({
       selectedPoint: e.lngLat
-    }, () => {
-      getNearbyPoints(this.state.selectedPoint[1], this.state.selectedPoint[0], 10000000);
+    }, async () => {
+      let _nearbyPoints = await getNearbyPoints(this.state.selectedPoint[1], this.state.selectedPoint[0], this.state.radius);
+      this.setState({
+        nearbyPoints: _nearbyPoints
+      });
     });
   };
 
