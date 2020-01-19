@@ -13,6 +13,7 @@ import {
   faBus,
   faPlus
 } from "@fortawesome/free-solid-svg-icons";
+import { noAuto } from "@fortawesome/fontawesome-svg-core";
 
 function App() {
   return (
@@ -27,9 +28,26 @@ function App() {
           width: 400,
           backgroundRepeat: "no-repeat",
           left: "50%",
-          transform: "translate(-200px)"
+          transform: "translate(-200px)",
+          color: "white"
         }}
-      ></div>
+      >
+        <p
+          style={{
+            bottom: -36,
+            left: "50%",
+            transform: "translate(-50%)",
+            margin: "auto",
+            position: "absolute",
+            backgroundColor: "#333333",
+            padding: 5,
+            borderRadius: 5,
+            opacity: 0.5
+          }}
+        >
+          Double click the map to add a pin. Scroll to zoom.
+        </p>
+      </div>
       <Map />
     </div>
   );
