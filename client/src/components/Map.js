@@ -21,21 +21,28 @@ export default class Map extends Component {
         height: "100vh",
         zoom: 10
       },
-      radius: 10000,
+      radius: 100, //In meters
       selectedPoint: null,
       nearbyPoints: []
     };
   }
 
   selectedPoint = e => {
-    this.setState({
-      selectedPoint: e.lngLat
-    }, async () => {
-      let _nearbyPoints = await getNearbyPoints(this.state.selectedPoint[1], this.state.selectedPoint[0], this.state.radius);
-      this.setState({
-        nearbyPoints: _nearbyPoints
-      });
-    });
+    this.setState(
+      {
+        selectedPoint: e.lngLat
+      },
+      async () => {
+        let _nearbyPoints = await getNearbyPoints(
+          this.state.selectedPoint[1],
+          this.state.selectedPoint[0],
+          this.state.radius
+        );
+        this.setState({
+          nearbyPoints: _nearbyPoints
+        });
+      }
+    );
   };
 
   handleViewportChange = viewport => {
@@ -90,6 +97,16 @@ export default class Map extends Component {
               <FontAwesomeIcon icon={faMapMarker} />
             </Marker>
           )}
+          {/* Result markers */}
+          {this.state.nearbyPoints.map(point => (
+            <Marker
+            key={point.id}
+            latitude={point.latitude}
+            longitude={point.longitude}
+          >
+            <FontAwesomeIcon icon={faMapMarker} />
+          </Marker>
+          ))}
         </ReactMap>
       </div>
     );
