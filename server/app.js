@@ -27,7 +27,7 @@ app.get('/coords', cors(), (req, res) => {
     const radius = queryParam.r;
     res.header("Content-Type",'application/json');
     filteredData = filterByRadius(latitude, longitude, radius);
-    res.send(JSON.stringify(filteredData));
+    res.send(filteredData);
 });
 
 const port = process.env.PORT || 4000;
