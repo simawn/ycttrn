@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ycttrn/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ycttrn/static/js/main.03e206cb.chunk.js",
+    "main.js.map": "/ycttrn/static/js/main.03e206cb.chunk.js.map",
+    "runtime-main.js": "/ycttrn/static/js/runtime-main.f3f33ac5.js",
+    "runtime-main.js.map": "/ycttrn/static/js/runtime-main.f3f33ac5.js.map",
+    "static/css/2.61091e02.chunk.css": "/ycttrn/static/css/2.61091e02.chunk.css",
+    "static/js/2.7ec5b641.chunk.js": "/ycttrn/static/js/2.7ec5b641.chunk.js",
+    "static/js/2.7ec5b641.chunk.js.map": "/ycttrn/static/js/2.7ec5b641.chunk.js.map",
+    "index.html": "/ycttrn/index.html",
+    "precache-manifest.c7b74456ac59cbbea5d2d1e3761a36d0.js": "/ycttrn/precache-manifest.c7b74456ac59cbbea5d2d1e3761a36d0.js",
+    "service-worker.js": "/ycttrn/service-worker.js",
+    "static/css/2.61091e02.chunk.css.map": "/ycttrn/static/css/2.61091e02.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/ycttrn/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7ec5b641.chunk.js.LICENSE": "/ycttrn/static/js/2.7ec5b641.chunk.js.LICENSE",
+    "static/media/ycttrn-logo-400-crop.png": "/ycttrn/static/media/ycttrn-logo-400-crop.8a69fb46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3f33ac5.js",
+    "static/css/2.61091e02.chunk.css",
+    "static/js/2.7ec5b641.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.03e206cb.chunk.js"
+  ]
+}
