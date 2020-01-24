@@ -1,8 +1,12 @@
+![logo](/img/thumb-ycttrn.jpg)
+
 # You Came to the Right Neighborhood
 New in the neighborhood? Find amnenities and other useful services that are few minutes of walk away!
 
 ## Try it out!
 https://simonhuang.ca/ycttrn/
+
+![preview](/img/ycttrn-small.jpg)
 
 ## Inspiration
 Finding a new place to live is always difficult as you don't always know what services are close to you. _You Came to the Right Neighborhood _ helps you locate those amenities and services that are within a few blocks away! The application gives you an overview of what to expect if you ever decide to live in that area and helps you make better decisions.
