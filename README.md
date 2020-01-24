@@ -5,7 +5,7 @@ New in the neighborhood? Find amnenities and other useful services that are few 
 
 ## Try it out!
 https://simonhuang.ca/ycttrn/
-(Not mobile friendly!)
+(Not mobile friendly! - Will work on mobile eventually...)
 
 ![preview](/img/ycttrn-small.jpg)
 
