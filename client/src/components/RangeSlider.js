@@ -14,7 +14,7 @@ const useStyles = makeStyles({
   }
 });
 
-const DEFAULT_VALUE = 500;
+const DEFAULT_VALUE = 1000;
 const MIN_VALUE = 0;
 const MAX_VALUE = 1000;
 const STEP = 10;

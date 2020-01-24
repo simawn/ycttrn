@@ -35,7 +35,7 @@ export default class Map extends Component {
         height: "100vh",
         zoom: 13
       },
-      radius: 500, //In meters
+      radius: 1000, //In meters
       selectedPoint: null,
       nearbyPoints: []
     };
