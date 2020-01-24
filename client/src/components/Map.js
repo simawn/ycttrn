@@ -15,10 +15,11 @@ import Geocoder from "react-map-gl-geocoder";
 import "react-map-gl-geocoder/dist/mapbox-gl-geocoder.css";
 
 import logoSmall from "../assets/ycttrn-logo-400-crop.png";
-import { getNearbyPoints } from "./APIFetch";
 import RangeSlider from "./RangeSlider";
 import Button from "@material-ui/core/Button";
 import Grid from "@material-ui/core/Grid";
+import data from "../data/db.json";
+import * as turf from "@turf/turf";
 
 const MAPBOX_TOKEN = process.env.REACT_APP_MAPBOX_TOKEN;
 
@@ -50,7 +51,7 @@ export default class Map extends Component {
   };
 
   fetchNearbyPoints = async () => {
-    let _nearbyPoints = await getNearbyPoints(
+    let _nearbyPoints = this.filterByRadius(
       this.state.selectedPoint[1],
       this.state.selectedPoint[0],
       this.state.radius
@@ -58,6 +59,19 @@ export default class Map extends Component {
     this.setState({
       nearbyPoints: _nearbyPoints
     });
+  };
+
+  filterByRadius = (lat, lon, r) => {
+    let filteredData = [];
+    data.forEach(obj => {
+      const from = turf.point([lon, lat]);
+      const to = turf.point([obj.longitude, obj.latitude]);
+      const distance = turf.distance(from, to) * 1000;
+      if (distance <= r) {
+        filteredData.push(obj);
+      }
+    });
+    return filteredData;
   };
 
   generateIcon = type => {

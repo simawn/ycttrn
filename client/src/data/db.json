@@ -1,0 +1,2018 @@
+[
+  {
+    "id": 10118,
+    "type": "subway",
+    "name": "STATION ANGRIGNON",
+    "latitude": 45.446466,
+    "longitude": -73.603118
+  },
+  {
+    "id": 10120,
+    "type": "subway",
+    "name": "STATION MONK",
+    "latitude": 45.451158,
+    "longitude": -73.593242
+  },
+  {
+    "id": 10122,
+    "type": "subway",
+    "name": "STATION JOLICOEUR",
+    "latitude": 45.45701,
+    "longitude": -73.581691
+  },
+  {
+    "id": 10124,
+    "type": "subway",
+    "name": "STATION VERDUN",
+    "latitude": 45.459441,
+    "longitude": -73.572021
+  },
+  {
+    "id": 10126,
+    "type": "subway",
+    "name": "STATION DE L'√âGLISE",
+    "latitude": 45.461894,
+    "longitude": -73.567074
+  },
+  {
+    "id": 10128,
+    "type": "subway",
+    "name": "STATION LASALLE",
+    "latitude": 45.471063,
+    "longitude": -73.566267
+  },
+  {
+    "id": 10130,
+    "type": "subway",
+    "name": "STATION CHARLEVOIX",
+    "latitude": 45.478465,
+    "longitude": -73.569336
+  },
+  {
+    "id": 10132,
+    "type": "subway",
+    "name": "STATION LIONEL-GROULX",
+    "latitude": 45.482509,
+    "longitude": -73.58018
+  },
+  {
+    "id": 10134,
+    "type": "subway",
+    "name": "STATION ATWATER",
+    "latitude": 45.490068,
+    "longitude": -73.585812
+  },
+  {
+    "id": 10136,
+    "type": "subway",
+    "name": "STATION GUY-CONCORDIA",
+    "latitude": 45.49557,
+    "longitude": -73.57931
+  },
+  {
+    "id": 10138,
+    "type": "subway",
+    "name": "STATION PEEL",
+    "latitude": 45.500879,
+    "longitude": -73.574715
+  },
+  {
+    "id": 10140,
+    "type": "subway",
+    "name": "STATION MCGILL",
+    "latitude": 45.504064,
+    "longitude": -73.571586
+  },
+  {
+    "id": 10142,
+    "type": "subway",
+    "name": "STATION PLACE DES ARTS",
+    "latitude": 45.50822,
+    "longitude": -73.568433
+  },
+  {
+    "id": 10144,
+    "type": "subway",
+    "name": "STATION ST-LAURENT",
+    "latitude": 45.511033,
+    "longitude": -73.564899
+  },
+  {
+    "id": 10146,
+    "type": "subway",
+    "name": "STATION BERRI",
+    "latitude": 45.515226,
+    "longitude": -73.561082
+  },
+  {
+    "id": 10148,
+    "type": "subway",
+    "name": "STATION BEAUDRY",
+    "latitude": 45.518831,
+    "longitude": -73.555837
+  },
+  {
+    "id": 10150,
+    "type": "subway",
+    "name": "STATION PAPINEAU",
+    "latitude": 45.523988,
+    "longitude": -73.552703
+  },
+  {
+    "id": 10152,
+    "type": "subway",
+    "name": "STATION FRONTENAC",
+    "latitude": 45.533504,
+    "longitude": -73.552196
+  },
+  {
+    "id": 10154,
+    "type": "subway",
+    "name": "STATION PR√âFONTAINE",
+    "latitude": 45.541717,
+    "longitude": -73.554192
+  },
+  {
+    "id": 10156,
+    "type": "subway",
+    "name": "STATION JOLIETTE",
+    "latitude": 45.546832,
+    "longitude": -73.551391
+  },
+  {
+    "id": 10158,
+    "type": "subway",
+    "name": "STATION PIE IX",
+    "latitude": 45.553688,
+    "longitude": -73.551757
+  },
+  {
+    "id": 10160,
+    "type": "subway",
+    "name": "STATION VIAU",
+    "latitude": 45.560687,
+    "longitude": -73.54753
+  },
+  {
+    "id": 10162,
+    "type": "subway",
+    "name": "STATION ASSOMPTION",
+    "latitude": 45.569285,
+    "longitude": -73.547336
+  },
+  {
+    "id": 10164,
+    "type": "subway",
+    "name": "STATION CADILLAC",
+    "latitude": 45.576843,
+    "longitude": -73.54671
+  },
+  {
+    "id": 10166,
+    "type": "subway",
+    "name": "STATION LANGELIER",
+    "latitude": 45.582736,
+    "longitude": -73.543133
+  },
+  {
+    "id": 10168,
+    "type": "subway",
+    "name": "STATION RADISSON",
+    "latitude": 45.589431,
+    "longitude": -73.539269
+  },
+  {
+    "id": 10170,
+    "type": "subway",
+    "name": "STATION HONOR√â-BEAUGRAND",
+    "latitude": 45.596572,
+    "longitude": -73.535376
+  },
+  {
+    "id": 10222,
+    "type": "subway",
+    "name": "STATION C√îTE-VERTU",
+    "latitude": 45.514237,
+    "longitude": -73.682757
+  },
+  {
+    "id": 10224,
+    "type": "subway",
+    "name": "STATION DU COLL√àGE",
+    "latitude": 45.509258,
+    "longitude": -73.674796
+  },
+  {
+    "id": 10228,
+    "type": "subway",
+    "name": "STATION DE LA SAVANE",
+    "latitude": 45.500051,
+    "longitude": -73.661538
+  },
+  {
+    "id": 10230,
+    "type": "subway",
+    "name": "STATION NAMUR",
+    "latitude": 45.494643,
+    "longitude": -73.652828
+  },
+  {
+    "id": 10232,
+    "type": "subway",
+    "name": "STATION PLAMONDON",
+    "latitude": 45.494644,
+    "longitude": -73.63826
+  },
+  {
+    "id": 10234,
+    "type": "subway",
+    "name": "STATION C√îTE-STE-CATHERINE",
+    "latitude": 45.492356,
+    "longitude": -73.6331
+  },
+  {
+    "id": 10236,
+    "type": "subway",
+    "name": "STATION SNOWDON",
+    "latitude": 45.485433,
+    "longitude": -73.62773
+  },
+  {
+    "id": 10238,
+    "type": "subway",
+    "name": "STATION VILLA-MARIA",
+    "latitude": 45.479709,
+    "longitude": -73.619821
+  },
+  {
+    "id": 10242,
+    "type": "subway",
+    "name": "STATION VEND√îME",
+    "latitude": 45.474101,
+    "longitude": -73.603706
+  },
+  {
+    "id": 10244,
+    "type": "subway",
+    "name": "STATION PLACE ST-HENRI",
+    "latitude": 45.47732,
+    "longitude": -73.586629
+  },
+  {
+    "id": 10248,
+    "type": "subway",
+    "name": "STATION GEORGES-VANIER",
+    "latitude": 45.488897,
+    "longitude": -73.576852
+  },
+  {
+    "id": 10250,
+    "type": "subway",
+    "name": "STATION LUCIEN-L'ALLIER",
+    "latitude": 45.494745,
+    "longitude": -73.571074
+  },
+  {
+    "id": 10252,
+    "type": "subway",
+    "name": "STATION BONAVENTURE",
+    "latitude": 45.498086,
+    "longitude": -73.567235
+  },
+  {
+    "id": 10254,
+    "type": "subway",
+    "name": "STATION SQUARE VICTORIA-OACI",
+    "latitude": 45.501937,
+    "longitude": -73.563118
+  },
+  {
+    "id": 10256,
+    "type": "subway",
+    "name": "STATION PLACE D'ARMES",
+    "latitude": 45.506348,
+    "longitude": -73.559548
+  },
+  {
+    "id": 10258,
+    "type": "subway",
+    "name": "STATION CHAMPS DE MARS",
+    "latitude": 45.510047,
+    "longitude": -73.556596
+  },
+  {
+    "id": 10262,
+    "type": "subway",
+    "name": "STATION SHERBROOKE",
+    "latitude": 45.51906,
+    "longitude": -73.569217
+  },
+  {
+    "id": 10264,
+    "type": "subway",
+    "name": "STATION MONT-ROYAL",
+    "latitude": 45.524931,
+    "longitude": -73.581959
+  },
+  {
+    "id": 10266,
+    "type": "subway",
+    "name": "STATION LAURIER",
+    "latitude": 45.527399,
+    "longitude": -73.586907
+  },
+  {
+    "id": 10268,
+    "type": "subway",
+    "name": "STATION ROSEMONT",
+    "latitude": 45.531733,
+    "longitude": -73.59778
+  },
+  {
+    "id": 10270,
+    "type": "subway",
+    "name": "STATION BEAUBIEN",
+    "latitude": 45.535354,
+    "longitude": -73.604688
+  },
+  {
+    "id": 10272,
+    "type": "subway",
+    "name": "STATION JEAN-TALON",
+    "latitude": 45.539056,
+    "longitude": -73.613902
+  },
+  {
+    "id": 10274,
+    "type": "subway",
+    "name": "STATION JARRY",
+    "latitude": 45.543191,
+    "longitude": -73.628765
+  },
+  {
+    "id": 10276,
+    "type": "subway",
+    "name": "STATION CR√âMAZIE",
+    "latitude": 45.546082,
+    "longitude": -73.639052
+  },
+  {
+    "id": 10278,
+    "type": "subway",
+    "name": "STATION SAUV√â",
+    "latitude": 45.550757,
+    "longitude": -73.656017
+  },
+  {
+    "id": 10280,
+    "type": "subway",
+    "name": "STATION HENRI-BOURASSA",
+    "latitude": 45.555277,
+    "longitude": -73.668172
+  },
+  {
+    "id": 10282,
+    "type": "subway",
+    "name": "STATION CARTIER",
+    "latitude": 45.559997,
+    "longitude": -73.68231
+  },
+  {
+    "id": 10286,
+    "type": "subway",
+    "name": "STATION DE LA CONCORDE",
+    "latitude": 45.560698,
+    "longitude": -73.709389
+  },
+  {
+    "id": 10288,
+    "type": "subway",
+    "name": "STATION MONTMORENCY",
+    "latitude": 45.558436,
+    "longitude": -73.722459
+  },
+  {
+    "id": 10452,
+    "type": "subway",
+    "name": "STATION JEAN-DRAPEAU",
+    "latitude": 45.512429,
+    "longitude": -73.533127
+  },
+  {
+    "id": 10454,
+    "type": "subway",
+    "name": "STATION LONGUEUIL- U. de SHERBROOKE",
+    "latitude": 45.52489,
+    "longitude": -73.522098
+  },
+  {
+    "id": 10534,
+    "type": "subway",
+    "name": "STATION C√îTE-DES-NEIGES",
+    "latitude": 45.496846,
+    "longitude": -73.623386
+  },
+  {
+    "id": 10536,
+    "type": "subway",
+    "name": "STATION UNIVERSIT√â DE MONTREAL",
+    "latitude": 45.503188,
+    "longitude": -73.617699
+  },
+  {
+    "id": 10538,
+    "type": "subway",
+    "name": "STATION √âDOUARD-MONTPETIT",
+    "latitude": 45.50992,
+    "longitude": -73.612858
+  },
+  {
+    "id": 10540,
+    "type": "subway",
+    "name": "STATION OUTREMONT",
+    "latitude": 45.52037,
+    "longitude": -73.614976
+  },
+  {
+    "id": 10542,
+    "type": "subway",
+    "name": "STATION ACADIE",
+    "latitude": 45.523458,
+    "longitude": -73.623257
+  },
+  {
+    "id": 10544,
+    "type": "subway",
+    "name": "STATION  DU PARC",
+    "latitude": 45.530177,
+    "longitude": -73.624559
+  },
+  {
+    "id": 10546,
+    "type": "subway",
+    "name": "STATION DE CASTELNAU",
+    "latitude": 45.535437,
+    "longitude": -73.619873
+  },
+  {
+    "id": 10552,
+    "type": "subway",
+    "name": "STATION FABRE",
+    "latitude": 45.546753,
+    "longitude": -73.608106
+  },
+  {
+    "id": 10554,
+    "type": "subway",
+    "name": "STATION IBERVILLE",
+    "latitude": 45.553618,
+    "longitude": -73.601988
+  },
+  {
+    "id": 10556,
+    "type": "subway",
+    "name": "STATION ST-MICHEL",
+    "latitude": 45.55956,
+    "longitude": -73.600002
+  },
+  {
+    "id": 4001,
+    "type": "grocery",
+    "name": "Market IGA extra CDL Tellier inc.",
+    "latitude": 45.6063695,
+    "longitude": -73.6116519
+  },
+  {
+    "id": 4002,
+    "type": "grocery",
+    "name": "Grocery Store Marche",
+    "latitude": 45.59042669999999,
+    "longitude": -73.6421039
+  },
+  {
+    "id": 4003,
+    "type": "grocery",
+    "name": "SAS Supermarché",
+    "latitude": 45.5869077,
+    "longitude": -73.6431906
+  },
+  {
+    "id": 4004,
+    "type": "grocery",
+    "name": "Supermarche B G Enr",
+    "latitude": 45.6043841,
+    "longitude": -73.6221456
+  },
+  {
+    "id": 4005,
+    "type": "grocery",
+    "name": "Marché Le Pro",
+    "latitude": 45.5907784,
+    "longitude": -73.63687809999999
+  },
+  {
+    "id": 4006,
+    "type": "grocery",
+    "name": "Super C",
+    "latitude": 45.60692470000001,
+    "longitude": -73.6171926
+  },
+  {
+    "id": 4007,
+    "type": "grocery",
+    "name": "Marché Diaz",
+    "latitude": 45.6167539,
+    "longitude": -73.6286896
+  },
+  {
+    "id": 4008,
+    "type": "grocery",
+    "name": "Mail Langelier",
+    "latitude": 45.6235935,
+    "longitude": -73.623244
+  },
+  {
+    "id": 4009,
+    "type": "grocery",
+    "name": "Epicerie J D V Inc",
+    "latitude": 45.5907889,
+    "longitude": -73.6510138
+  },
+  {
+    "id": 4010,
+    "type": "grocery",
+    "name": "Euro Marché Montréal-Nord - Delivery - Fruits Vegetables Cheese Meat - Bulk Food - Wine Beer",
+    "latitude": 45.579745,
+    "longitude": -73.64282949999999
+  },
+  {
+    "id": 4011,
+    "type": "grocery",
+    "name": "Marche Monselet",
+    "latitude": 45.5848198,
+    "longitude": -73.64660669999999
+  },
+  {
+    "id": 4012,
+    "type": "grocery",
+    "name": "Le Marché Esposito",
+    "latitude": 45.605414,
+    "longitude": -73.6252909
+  },
+  {
+    "id": 4013,
+    "type": "grocery",
+    "name": "Panier Futé Coop",
+    "latitude": 45.6168887,
+    "longitude": -73.6285516
+  },
+  {
+    "id": 4014,
+    "type": "grocery",
+    "name": "Épisole Épicerie Solidaire de l'Est",
+    "latitude": 45.5896327,
+    "longitude": -73.6373128
+  },
+  {
+    "id": 4015,
+    "type": "grocery",
+    "name": "Marche Bilal",
+    "latitude": 45.5993811,
+    "longitude": -73.62647369999999
+  },
+  {
+    "id": 4016,
+    "type": "grocery",
+    "name": "Marche L'Artibonite Inc",
+    "latitude": 45.6139185,
+    "longitude": -73.6304385
+  },
+  {
+    "id": 4017,
+    "type": "grocery",
+    "name": "Mama Supermarche Antillais",
+    "latitude": 45.5967539,
+    "longitude": -73.6317002
+  },
+  {
+    "id": 4018,
+    "type": "grocery",
+    "name": "Boucherie Sanchez",
+    "latitude": 45.6023763,
+    "longitude": -73.62009239999999
+  },
+  {
+    "id": 4019,
+    "type": "grocery",
+    "name": "Marché Richelieu",
+    "latitude": 45.6062332,
+    "longitude": -73.6345985
+  },
+  {
+    "id": 4020,
+    "type": "grocery",
+    "name": "Maxi & Cie",
+    "latitude": 45.58411299999999,
+    "longitude": -73.6322228
+  },
+  {
+    "id": 1001,
+    "type": "grocery",
+    "name": "Adonis Downtown",
+    "latitude": 45.4905278,
+    "longitude": -73.5834737
+  },
+  {
+    "id": 1002,
+    "type": "grocery",
+    "name": "Supermarché PA du Fort",
+    "latitude": 45.4921176,
+    "longitude": -73.58223339999999
+  },
+  {
+    "id": 1003,
+    "type": "grocery",
+    "name": "Marché Lobo",
+    "latitude": 45.50974730000001,
+    "longitude": -73.5739242
+  },
+  {
+    "id": 1004,
+    "type": "grocery",
+    "name": "Segal's Market",
+    "latitude": 45.5168692,
+    "longitude": -73.57884949999999
+  },
+  {
+    "id": 1005,
+    "type": "grocery",
+    "name": "Bonjour Supermarché",
+    "latitude": 45.492295,
+    "longitude": -73.5830064
+  },
+  {
+    "id": 1006,
+    "type": "grocery",
+    "name": "FOU D'ICI",
+    "latitude": 45.506772,
+    "longitude": -73.5690072
+  },
+  {
+    "id": 1007,
+    "type": "grocery",
+    "name": "La Vieille Europe",
+    "latitude": 45.515968,
+    "longitude": -73.5767709
+  },
+  {
+    "id": 1008,
+    "type": "grocery",
+    "name": "Épicerie Coréenne et Japonaise (한국식품)",
+    "latitude": 45.4934134,
+    "longitude": -73.5799222
+  },
+  {
+    "id": 1009,
+    "type": "grocery",
+    "name": "Provigo",
+    "latitude": 45.4961417,
+    "longitude": -73.5709694
+  },
+  {
+    "id": 1010,
+    "type": "grocery",
+    "name": "Marché Oriental Jang Teu - St.Catherine 몬트리올 장터 한국식품",
+    "latitude": 45.4913277,
+    "longitude": -73.58249719999999
+  },
+  {
+    "id": 1011,
+    "type": "grocery",
+    "name": "Alexis Le Gourmand",
+    "latitude": 45.492975,
+    "longitude": -73.56867299999999
+  },
+  {
+    "id": 1012,
+    "type": "grocery",
+    "name": "Frenco",
+    "latitude": 45.5167566,
+    "longitude": -73.5786042
+  },
+  {
+    "id": 1013,
+    "type": "grocery",
+    "name": "Mizan Gourmet",
+    "latitude": 45.4931568,
+    "longitude": -73.5797661
+  },
+  {
+    "id": 1014,
+    "type": "grocery",
+    "name": "Latina Chez Carlos - Catering - Meat Seafood Cheese Shop - Coffee - Organic Wine Craft Beer",
+    "latitude": 45.4978753,
+    "longitude": -73.5800232
+  },
+  {
+    "id": 1015,
+    "type": "grocery",
+    "name": "IGA Louise Ménard - Complexe Desjardins",
+    "latitude": 45.507665,
+    "longitude": -73.563261
+  },
+  {
+    "id": 1016,
+    "type": "grocery",
+    "name": "Dispensa Italian Grocery",
+    "latitude": 45.4985187,
+    "longitude": -73.5571676
+  },
+  {
+    "id": 1017,
+    "type": "grocery",
+    "name": "IGA",
+    "latitude": 45.4892262,
+    "longitude": -73.5862464
+  },
+  {
+    "id": 1018,
+    "type": "grocery",
+    "name": "Marché 3 Piliers",
+    "latitude": 45.5274082,
+    "longitude": -73.5854476
+  },
+  {
+    "id": 1019,
+    "type": "grocery",
+    "name": "Metro Plus ETS",
+    "latitude": 45.49300340000001,
+    "longitude": -73.5645546
+  },
+  {
+    "id": 1020,
+    "type": "grocery",
+    "name": "Bio Terre - Épicerie Santé",
+    "latitude": 45.5234206,
+    "longitude": -73.6014903
+  },
+  {
+    "id": 2001,
+    "type": "grocery",
+    "name": "Marche Montreal Est Inc",
+    "latitude": 45.6311022,
+    "longitude": -73.5003845
+  },
+  {
+    "id": 2002,
+    "type": "grocery",
+    "name": "Metro Plus St-Jean-Baptiste",
+    "latitude": 45.6414517,
+    "longitude": -73.50255369999999
+  },
+  {
+    "id": 2003,
+    "type": "grocery",
+    "name": "Marché Tradition",
+    "latitude": 45.60984999999999,
+    "longitude": -73.526208
+  },
+  {
+    "id": 2004,
+    "type": "grocery",
+    "name": "Huile & Vinaigre Épicerie Fine",
+    "latitude": 45.6392973,
+    "longitude": -73.4906642
+  },
+  {
+    "id": 2005,
+    "type": "grocery",
+    "name": "Marche Hochelaga",
+    "latitude": 45.6096342,
+    "longitude": -73.51583889999999
+  },
+  {
+    "id": 2006,
+    "type": "grocery",
+    "name": "Dépanneur Boni-Soir",
+    "latitude": 45.6322937,
+    "longitude": -73.5069133
+  },
+  {
+    "id": 2007,
+    "type": "grocery",
+    "name": "Depanneur Broadway",
+    "latitude": 45.6311056,
+    "longitude": -73.5020617
+  },
+  {
+    "id": 2008,
+    "type": "grocery",
+    "name": "Couche-Tard",
+    "latitude": 45.6261241,
+    "longitude": -73.5023551
+  },
+  {
+    "id": 2009,
+    "type": "grocery",
+    "name": "Metro Notre-Dame",
+    "latitude": 45.5943128,
+    "longitude": -73.511628
+  },
+  {
+    "id": 2010,
+    "type": "grocery",
+    "name": "Boutique chez ira Inc",
+    "latitude": 45.6103787,
+    "longitude": -73.5318501
+  },
+  {
+    "id": 2011,
+    "type": "grocery",
+    "name": "IGA extra Godin Family Pointe-aux-Trembles",
+    "latitude": 45.6579705,
+    "longitude": -73.51046029999999
+  },
+  {
+    "id": 2012,
+    "type": "grocery",
+    "name": "Le Frigo des Dieux",
+    "latitude": 45.6496961,
+    "longitude": -73.51139599999999
+  },
+  {
+    "id": 2013,
+    "type": "grocery",
+    "name": "Maxi",
+    "latitude": 45.6535795,
+    "longitude": -73.50918519999999
+  },
+  {
+    "id": 2014,
+    "type": "grocery",
+    "name": "Provigo",
+    "latitude": 45.59170599999999,
+    "longitude": -73.535823
+  },
+  {
+    "id": 2015,
+    "type": "grocery",
+    "name": "Maxi",
+    "latitude": 45.5931072,
+    "longitude": -73.5413683
+  },
+  {
+    "id": 2016,
+    "type": "grocery",
+    "name": "Les Aliments M&M",
+    "latitude": 45.5955155,
+    "longitude": -73.5347361
+  },
+  {
+    "id": 2017,
+    "type": "grocery",
+    "name": "Metro Beaubien",
+    "latitude": 45.58488,
+    "longitude": -73.5630477
+  },
+  {
+    "id": 2018,
+    "type": "grocery",
+    "name": "Metro Plus Domaine",
+    "latitude": 45.5821894,
+    "longitude": -73.542732
+  },
+  {
+    "id": 2019,
+    "type": "grocery",
+    "name": "Super C",
+    "latitude": 45.6552561,
+    "longitude": -73.5116494
+  },
+  {
+    "id": 2020,
+    "type": "grocery",
+    "name": "Super C",
+    "latitude": 45.6336471,
+    "longitude": -73.5872699
+  },
+  {
+    "id": 3001,
+    "type": "grocery",
+    "name": "Epicure Market",
+    "latitude": 45.4599471,
+    "longitude": -73.6628563
+  },
+  {
+    "id": 3002,
+    "type": "grocery",
+    "name": "Bol De Fruits De Qualites",
+    "latitude": 45.4528614,
+    "longitude": -73.64564270000001
+  },
+  {
+    "id": 3003,
+    "type": "grocery",
+    "name": "Provigo",
+    "latitude": 45.4641667,
+    "longitude": -73.62888889999999
+  },
+  {
+    "id": 3004,
+    "type": "grocery",
+    "name": "Supermarché Akhavan",
+    "latitude": 45.46666,
+    "longitude": -73.62284799999999
+  },
+  {
+    "id": 3005,
+    "type": "grocery",
+    "name": "Beso Boutique (Magasin)",
+    "latitude": 45.4617388,
+    "longitude": -73.6572374
+  },
+  {
+    "id": 3006,
+    "type": "grocery",
+    "name": "Super C",
+    "latitude": 45.4567971,
+    "longitude": -73.6287006
+  },
+  {
+    "id": 3007,
+    "type": "grocery",
+    "name": "Marché Oriental Jang Teu - St.Jacques 몬트리올 장터 한국식품",
+    "latitude": 45.45868,
+    "longitude": -73.62787
+  },
+  {
+    "id": 3008,
+    "type": "grocery",
+    "name": "I'Epicerie Moderne",
+    "latitude": 45.469249,
+    "longitude": -73.61802999999999
+  },
+  {
+    "id": 3009,
+    "type": "grocery",
+    "name": "Provigo",
+    "latitude": 45.459826,
+    "longitude": -73.62443999999999
+  },
+  {
+    "id": 3010,
+    "type": "grocery",
+    "name": "Metro Somerled",
+    "latitude": 45.4665613,
+    "longitude": -73.6398736
+  },
+  {
+    "id": 3011,
+    "type": "grocery",
+    "name": "Marche Al Amana Inc",
+    "latitude": 45.465965,
+    "longitude": -73.6242975
+  },
+  {
+    "id": 3012,
+    "type": "grocery",
+    "name": "Montreal Korean & Japanese Foods",
+    "latitude": 45.4672737,
+    "longitude": -73.62279509999999
+  },
+  {
+    "id": 3013,
+    "type": "grocery",
+    "name": "Nacho Villa Tortilla Montreal",
+    "latitude": 45.4584348,
+    "longitude": -73.61481640000001
+  },
+  {
+    "id": 3014,
+    "type": "grocery",
+    "name": "Westmount Market",
+    "latitude": 45.47688429999999,
+    "longitude": -73.6061367
+  },
+  {
+    "id": 3015,
+    "type": "grocery",
+    "name": "Fruiterie Maruti",
+    "latitude": 45.45881869999999,
+    "longitude": -73.6615501
+  },
+  {
+    "id": 3016,
+    "type": "grocery",
+    "name": "Marche Jarry",
+    "latitude": 45.4618607,
+    "longitude": -73.59747469999999
+  },
+  {
+    "id": 3017,
+    "type": "grocery",
+    "name": "IGA Plaza Monk",
+    "latitude": 45.4521034,
+    "longitude": -73.59393399999999
+  },
+  {
+    "id": 3018,
+    "type": "grocery",
+    "name": "Le Marché Esposito",
+    "latitude": 45.470572,
+    "longitude": -73.61633599999999
+  },
+  {
+    "id": 3019,
+    "type": "grocery",
+    "name": "Mizan Gourmet",
+    "latitude": 45.4931568,
+    "longitude": -73.5797661
+  },
+  {
+    "id": 3020,
+    "type": "grocery",
+    "name": "Provigo",
+    "latitude": 45.4583333,
+    "longitude": -73.58805559999999
+  },
+  {
+    "id": 5001,
+    "type": "hospital",
+    "name": "Montréal General Hospital",
+    "latitude": 45.4969849,
+    "longitude": -73.5887994
+  },
+  {
+    "id": 5002,
+    "type": "hospital",
+    "name": "Montreal Children's Hospital",
+    "latitude": 45.4728521,
+    "longitude": -73.6009687
+  },
+  {
+    "id": 5003,
+    "type": "hospital",
+    "name": "McGill University Health Centre",
+    "latitude": 45.472852,
+    "longitude": -73.6009687
+  },
+  {
+    "id": 5004,
+    "type": "hospital",
+    "name": "Montreal Neurological Institute and Hospital",
+    "latitude": 45.5089963,
+    "longitude": -73.58137289999999
+  },
+  {
+    "id": 5005,
+    "type": "hospital",
+    "name": "MUHC Planning Office",
+    "latitude": 45.49635,
+    "longitude": -73.5801252
+  },
+  {
+    "id": 5006,
+    "type": "hospital",
+    "name": "St. Mary's Hospital",
+    "latitude": 45.49477960000001,
+    "longitude": -73.62395769999999
+  },
+  {
+    "id": 5007,
+    "type": "hospital",
+    "name": "CHUM Hospital (Université de Montréal)",
+    "latitude": 45.51104650000001,
+    "longitude": -73.5603446
+  },
+  {
+    "id": 5008,
+    "type": "hospital",
+    "name": "Notre Dame Hospital - CCSMTL Head Office",
+    "latitude": 45.52576759999999,
+    "longitude": -73.56427839999999
+  },
+  {
+    "id": 5009,
+    "type": "hospital",
+    "name": "Montreal General Hospital: Emergency Department",
+    "latitude": 45.49677020000001,
+    "longitude": -73.58845529999999
+  },
+  {
+    "id": 5010,
+    "type": "hospital",
+    "name": "Jewish General Hospital",
+    "latitude": 45.4969603,
+    "longitude": -73.6302106
+  },
+  {
+    "id": 5011,
+    "type": "hospital",
+    "name": "Royal Victoria Hospital",
+    "latitude": 45.47326229999999,
+    "longitude": -73.60157850000002
+  },
+  {
+    "id": 5012,
+    "type": "hospital",
+    "name": "Shriners Hospitals for Children - Canada",
+    "latitude": 45.4718127,
+    "longitude": -73.6018115
+  },
+  {
+    "id": 5013,
+    "type": "hospital",
+    "name": "CHUM",
+    "latitude": 45.5121652,
+    "longitude": -73.5578941
+  },
+  {
+    "id": 5014,
+    "type": "hospital",
+    "name": "Foundation Hospital Chinese De Montréal",
+    "latitude": 45.509488,
+    "longitude": -73.558131
+  },
+  {
+    "id": 5015,
+    "type": "hospital",
+    "name": "MUHC Glen Site",
+    "latitude": 45.4730245,
+    "longitude": -73.6007662
+  },
+  {
+    "id": 5016,
+    "type": "hospital",
+    "name": "Maison Sainte-Elizabeth",
+    "latitude": 45.4907101,
+    "longitude": -73.5809646
+  },
+  {
+    "id": 5017,
+    "type": "hospital",
+    "name": "Montreal Children's Hospital-Gilman Pavilion",
+    "latitude": 45.4873383,
+    "longitude": -73.5826221
+  },
+  {
+    "id": 5018,
+    "type": "hospital",
+    "name": "CHU Sainte-Justine",
+    "latitude": 45.5032186,
+    "longitude": -73.6239156
+  },
+  {
+    "id": 5019,
+    "type": "hospital",
+    "name": "Site Glen Institute Thoracique De Montreal",
+    "latitude": 45.47312489999999,
+    "longitude": -73.60068129999999
+  },
+  {
+    "id": 5020,
+    "type": "hospital",
+    "name": "McGill University Health Centre, Neuro",
+    "latitude": 45.5089757,
+    "longitude": -73.5814166
+  },
+  {
+    "id": 9001,
+    "type": "school",
+    "name": "University of Montreal",
+    "latitude": 45.5056156,
+    "longitude": -73.61375919999999
+  },
+  {
+    "id": 9002,
+    "type": "school",
+    "name": "Concordia University",
+    "latitude": 45.4945643,
+    "longitude": -73.5773775
+  },
+  {
+    "id": 9003,
+    "type": "school",
+    "name": "McGill University",
+    "latitude": 45.50478469999999,
+    "longitude": -73.5771511
+  },
+  {
+    "id": 9004,
+    "type": "school",
+    "name": "Polytechnique Montréal",
+    "latitude": 45.50438399999999,
+    "longitude": -73.6128829
+  },
+  {
+    "id": 9005,
+    "type": "school",
+    "name": "John Molson School of Business",
+    "latitude": 45.495495,
+    "longitude": -73.5791717
+  },
+  {
+    "id": 9006,
+    "type": "school",
+    "name": "Université du Québec à Montréal",
+    "latitude": 45.5125995,
+    "longitude": -73.56059549999999
+  },
+  {
+    "id": 9007,
+    "type": "school",
+    "name": "École de technologie supérieure ÉTS",
+    "latitude": 45.494546,
+    "longitude": -73.562246
+  },
+  {
+    "id": 9008,
+    "type": "school",
+    "name": "Université de Montréal - Campus MIL",
+    "latitude": 45.5231104,
+    "longitude": -73.6196605
+  },
+  {
+    "id": 9009,
+    "type": "school",
+    "name": "HEC Montréal",
+    "latitude": 45.5035488,
+    "longitude": -73.6211175
+  },
+  {
+    "id": 9010,
+    "type": "school",
+    "name": "McGill University - Faculty of Law",
+    "latitude": 45.5032613,
+    "longitude": -73.5805156
+  },
+  {
+    "id": 9011,
+    "type": "school",
+    "name": "University of Montreal - Maximilien-Caron Building",
+    "latitude": 45.4987927,
+    "longitude": -73.61690779999999
+  },
+  {
+    "id": 9012,
+    "type": "school",
+    "name": "GM Building Concordia University",
+    "latitude": 45.4959268,
+    "longitude": -73.57884349999999
+  },
+  {
+    "id": 9013,
+    "type": "school",
+    "name": "McGill University - Faculty of Medicine",
+    "latitude": 45.501584,
+    "longitude": -73.582049
+  },
+  {
+    "id": 9014,
+    "type": "school",
+    "name": "Concordia University - Loyola Campus",
+    "latitude": 45.45824229999999,
+    "longitude": -73.6404604
+  },
+  {
+    "id": 9015,
+    "type": "school",
+    "name": "Université du Québec à Montréal, Complexe des Sciences Pierre-Dansereau",
+    "latitude": 45.5091374,
+    "longitude": -73.56855139999999
+  },
+  {
+    "id": 9016,
+    "type": "school",
+    "name": "Université de Montréal - Pavillon J.-Armand-Bombardier",
+    "latitude": 45.5031813,
+    "longitude": -73.6128559
+  },
+  {
+    "id": 9017,
+    "type": "school",
+    "name": "University of Montréal - Faculty of Environmental Design",
+    "latitude": 45.5048486,
+    "longitude": -73.62171239999999
+  },
+  {
+    "id": 9018,
+    "type": "school",
+    "name": "Faculty of Continuing Education of University of Montreal",
+    "latitude": 45.495106,
+    "longitude": -73.62174639999999
+  },
+  {
+    "id": 9019,
+    "type": "school",
+    "name": "Université du Québec à Montréal (UQAM)",
+    "latitude": 45.51196909999999,
+    "longitude": -73.5621366
+  },
+  {
+    "id": 9020,
+    "type": "school",
+    "name": "Desautels Faculty of Management, McGill University",
+    "latitude": 45.5023822,
+    "longitude": -73.576362
+  },
+  {
+    "id": 8001,
+    "type": "school",
+    "name": "Cégep du Vieux Montréal",
+    "latitude": 45.5145953,
+    "longitude": -73.5663644
+  },
+  {
+    "id": 8002,
+    "type": "school",
+    "name": "Cégep de la Gaspésie et des Îles",
+    "latitude": 45.5556669,
+    "longitude": -73.6682743
+  },
+  {
+    "id": 8003,
+    "type": "school",
+    "name": "Vanier College",
+    "latitude": 45.5144775,
+    "longitude": -73.67533209999999
+  },
+  {
+    "id": 8004,
+    "type": "school",
+    "name": "Cégep Marie-Victorin",
+    "latitude": 45.6176891,
+    "longitude": -73.60622769999999
+  },
+  {
+    "id": 8005,
+    "type": "school",
+    "name": "École nationale du meuble et de l'ébénisterie",
+    "latitude": 45.5401007,
+    "longitude": -73.5824724
+  },
+  {
+    "id": 8006,
+    "type": "school",
+    "name": "CEGEP Maisonneuve",
+    "latitude": 45.5504494,
+    "longitude": -73.5535606
+  },
+  {
+    "id": 8007,
+    "type": "school",
+    "name": "Cégep à distance",
+    "latitude": 45.557524,
+    "longitude": -73.58127449999999
+  },
+  {
+    "id": 8008,
+    "type": "school",
+    "name": "Saint-Laurent Cégep",
+    "latitude": 45.5122191,
+    "longitude": -73.67197469999999
+  },
+  {
+    "id": 8009,
+    "type": "school",
+    "name": "Cegep",
+    "latitude": 45.5381517,
+    "longitude": -73.6756334
+  },
+  {
+    "id": 8010,
+    "type": "school",
+    "name": "Collège de Maisonneuve",
+    "latitude": 45.551088,
+    "longitude": -73.553539
+  },
+  {
+    "id": 8011,
+    "type": "school",
+    "name": "Rosemont College",
+    "latitude": 45.5572558,
+    "longitude": -73.5822943
+  },
+  {
+    "id": 8012,
+    "type": "school",
+    "name": "Cégep Maisonneuve Formation Continue",
+    "latitude": 45.5502794,
+    "longitude": -73.54264409999999
+  },
+  {
+    "id": 8013,
+    "type": "school",
+    "name": "Cégep du vieux Montréal",
+    "latitude": 45.5016889,
+    "longitude": -73.567256
+  },
+  {
+    "id": 8014,
+    "type": "school",
+    "name": "Dawson College",
+    "latitude": 45.4899052,
+    "longitude": -73.5881891
+  },
+  {
+    "id": 8015,
+    "type": "school",
+    "name": "Centre Educationnel Inter-Age Du Cegep Marie-Victorin",
+    "latitude": 45.53871909999999,
+    "longitude": -73.6106685
+  },
+  {
+    "id": 8016,
+    "type": "school",
+    "name": "Cégep André-Laurendeau",
+    "latitude": 45.436553,
+    "longitude": -73.604996
+  },
+  {
+    "id": 8017,
+    "type": "school",
+    "name": "Collège de Bois-de-Boulogne",
+    "latitude": 45.5380245,
+    "longitude": -73.6759667
+  },
+  {
+    "id": 8018,
+    "type": "school",
+    "name": "Cegep Ahuntsic",
+    "latitude": 45.5516622,
+    "longitude": -73.6424628
+  },
+  {
+    "id": 8019,
+    "type": "school",
+    "name": "Maisonneuve College",
+    "latitude": 45.5503116,
+    "longitude": -73.5421435
+  },
+  {
+    "id": 8020,
+    "type": "school",
+    "name": "Cégep",
+    "latitude": 45.550237,
+    "longitude": -73.55355
+  },
+  {
+    "id": 7001,
+    "type": "school",
+    "name": "Collège de Montréal",
+    "latitude": 45.49442759999999,
+    "longitude": -73.5852096
+  },
+  {
+    "id": 7002,
+    "type": "school",
+    "name": "Trafalgar School for Girls",
+    "latitude": 45.49870019999999,
+    "longitude": -73.58413159999999
+  },
+  {
+    "id": 7003,
+    "type": "school",
+    "name": "Westmount High School",
+    "latitude": 45.4834355,
+    "longitude": -73.5901552
+  },
+  {
+    "id": 7004,
+    "type": "school",
+    "name": "St. George's School of Montreal",
+    "latitude": 45.4939405,
+    "longitude": -73.5969681
+  },
+  {
+    "id": 7005,
+    "type": "school",
+    "name": "High School of Montreal Adult Centre",
+    "latitude": 45.5163884,
+    "longitude": -73.5732402
+  },
+  {
+    "id": 7006,
+    "type": "school",
+    "name": "The Sacred Heart School of Montreal",
+    "latitude": 45.4951514,
+    "longitude": -73.5883563
+  },
+  {
+    "id": 7007,
+    "type": "school",
+    "name": "F.A.C.E. Elementary & High School",
+    "latitude": 45.5061048,
+    "longitude": -73.5748935
+  },
+  {
+    "id": 7008,
+    "type": "school",
+    "name": "Focus High School",
+    "latitude": 45.4680382,
+    "longitude": -73.59590539999999
+  },
+  {
+    "id": 7009,
+    "type": "school",
+    "name": "International School of Montreal (Secondary)",
+    "latitude": 45.4865653,
+    "longitude": -73.5958976
+  },
+  {
+    "id": 7010,
+    "type": "school",
+    "name": "Vezina",
+    "latitude": 45.4769335,
+    "longitude": -73.558786
+  },
+  {
+    "id": 7011,
+    "type": "school",
+    "name": "Options High School",
+    "latitude": 45.458799,
+    "longitude": -73.58717399999999
+  },
+  {
+    "id": 7012,
+    "type": "school",
+    "name": "Victoria High School",
+    "latitude": 45.5071314,
+    "longitude": -73.5805693
+  },
+  {
+    "id": 7013,
+    "type": "school",
+    "name": "Venture",
+    "latitude": 45.4589457,
+    "longitude": -73.5871499
+  },
+  {
+    "id": 7014,
+    "type": "school",
+    "name": "MIND High School",
+    "latitude": 45.5195553,
+    "longitude": -73.5884734
+  },
+  {
+    "id": 7015,
+    "type": "school",
+    "name": "Royal Vale School",
+    "latitude": 45.475216,
+    "longitude": -73.63255
+  },
+  {
+    "id": 7016,
+    "type": "school",
+    "name": "Marymount Academy",
+    "latitude": 45.48225499999999,
+    "longitude": -73.620004
+  },
+  {
+    "id": 7017,
+    "type": "school",
+    "name": "Loyola High School",
+    "latitude": 45.4568895,
+    "longitude": -73.6395365
+  },
+  {
+    "id": 7018,
+    "type": "school",
+    "name": "Miss Edgar's & Miss Cramp's School",
+    "latitude": 45.4912467,
+    "longitude": -73.59692319999999
+  },
+  {
+    "id": 7019,
+    "type": "school",
+    "name": "Talmud Torahs Unis de Montréal Inc. (École Snowdon)",
+    "latitude": 45.490597,
+    "longitude": -73.6313368
+  },
+  {
+    "id": 7020,
+    "type": "school",
+    "name": "Lower Canada College",
+    "latitude": 45.4703651,
+    "longitude": -73.62354839999999
+  },
+  {
+    "id": 6001,
+    "type": "school",
+    "name": "F.A.C.E. Elementary & High School",
+    "latitude": 45.5061048,
+    "longitude": -73.5748935
+  },
+  {
+    "id": 6002,
+    "type": "school",
+    "name": "St. Gabriel Elementary School",
+    "latitude": 45.4769335,
+    "longitude": -73.558786
+  },
+  {
+    "id": 6003,
+    "type": "school",
+    "name": "Westmount Park Elementary School",
+    "latitude": 45.4809358,
+    "longitude": -73.5949401
+  },
+  {
+    "id": 6004,
+    "type": "school",
+    "name": "Coronation Elementary School",
+    "latitude": 45.49372,
+    "longitude": -73.63751680000001
+  },
+  {
+    "id": 6005,
+    "type": "school",
+    "name": "St. George's School of Montreal",
+    "latitude": 45.4939405,
+    "longitude": -73.5969681
+  },
+  {
+    "id": 6006,
+    "type": "school",
+    "name": "École internationale primaire de Montréal",
+    "latitude": 45.4822937,
+    "longitude": -73.62973079999999
+  },
+  {
+    "id": 6007,
+    "type": "school",
+    "name": "FACE",
+    "latitude": 45.5061048,
+    "longitude": -73.5748935
+  },
+  {
+    "id": 6008,
+    "type": "school",
+    "name": "Bancroft Elementary School",
+    "latitude": 45.5195553,
+    "longitude": -73.5884734
+  },
+  {
+    "id": 6009,
+    "type": "school",
+    "name": "Edinburgh Elementary School",
+    "latitude": 45.4574598,
+    "longitude": -73.659701
+  },
+  {
+    "id": 6010,
+    "type": "school",
+    "name": "St. Monica Elementary School",
+    "latitude": 45.467306,
+    "longitude": -73.634286
+  },
+  {
+    "id": 6011,
+    "type": "school",
+    "name": "Roslyn Elementary School",
+    "latitude": 45.483177,
+    "longitude": -73.6094385
+  },
+  {
+    "id": 6012,
+    "type": "school",
+    "name": "St. George's School of Montreal, Elementary school",
+    "latitude": 45.48916939999999,
+    "longitude": -73.60515180000002
+  },
+  {
+    "id": 6013,
+    "type": "school",
+    "name": "Nesbitt Elementary School",
+    "latitude": 45.5516179,
+    "longitude": -73.5835717
+  },
+  {
+    "id": 6014,
+    "type": "school",
+    "name": "Talmud Torah Elementary School",
+    "latitude": 45.4902514,
+    "longitude": -73.63153489999999
+  },
+  {
+    "id": 6015,
+    "type": "school",
+    "name": "Pierre Elliott Trudeau Elementary School",
+    "latitude": 45.5468238,
+    "longitude": -73.6020272
+  },
+  {
+    "id": 6016,
+    "type": "school",
+    "name": "Willingdon Elementary School - Junior Campus",
+    "latitude": 45.47355200000001,
+    "longitude": -73.628762
+  },
+  {
+    "id": 6017,
+    "type": "school",
+    "name": "Royal Vale School",
+    "latitude": 45.475216,
+    "longitude": -73.63255
+  },
+  {
+    "id": 6018,
+    "type": "school",
+    "name": "Carlyle Elementary School",
+    "latitude": 45.5132343,
+    "longitude": -73.6462742
+  },
+  {
+    "id": 6019,
+    "type": "school",
+    "name": "The Priory School",
+    "latitude": 45.4933698,
+    "longitude": -73.5971034
+  },
+  {
+    "id": 6020,
+    "type": "school",
+    "name": "Edward Murphy Elementary School",
+    "latitude": 45.5821105,
+    "longitude": -73.5337898
+  },
+  {
+    "id": 10001,
+    "type": "health",
+    "name": "Alpha Medic",
+    "latitude": 45.4949479,
+    "longitude": -73.5772507
+  },
+  {
+    "id": 10002,
+    "type": "health",
+    "name": "RocklandMD - Downtown Montreal",
+    "latitude": 45.4965858,
+    "longitude": -73.5811307
+  },
+  {
+    "id": 10003,
+    "type": "health",
+    "name": "Metro-Medic Medical Clinic",
+    "latitude": 45.496554,
+    "longitude": -73.5812048
+  },
+  {
+    "id": 10004,
+    "type": "health",
+    "name": "Crea-MeD, Private Medical Clinic in Montreal",
+    "latitude": 45.5030204,
+    "longitude": -73.5747669
+  },
+  {
+    "id": 10005,
+    "type": "health",
+    "name": "Clinique Medic Elle",
+    "latitude": 45.493736,
+    "longitude": -73.58365979999999
+  },
+  {
+    "id": 10006,
+    "type": "health",
+    "name": "Westmount Square Health Group",
+    "latitude": 45.4875263,
+    "longitude": -73.5874118
+  },
+  {
+    "id": 10007,
+    "type": "health",
+    "name": "Passport Health Centre-Ville Montréal Clinique Santé-Voyage",
+    "latitude": 45.5015546,
+    "longitude": -73.57453459999999
+  },
+  {
+    "id": 10008,
+    "type": "health",
+    "name": "Les Cours Medical Centre",
+    "latitude": 45.501211,
+    "longitude": -73.57376239999999
+  },
+  {
+    "id": 10009,
+    "type": "health",
+    "name": "Clinique Medicale Des 2 Tours",
+    "latitude": 45.5010233,
+    "longitude": -73.564439
+  },
+  {
+    "id": 10010,
+    "type": "health",
+    "name": "Institut de la Rétine Médicale de Montréal / Institute of Medical Retina of Montreal",
+    "latitude": 45.4888683,
+    "longitude": -73.58052599999999
+  },
+  {
+    "id": 10011,
+    "type": "health",
+    "name": "Clinique Medicale Diamant",
+    "latitude": 45.5002934,
+    "longitude": -73.6301639
+  },
+  {
+    "id": 10012,
+    "type": "health",
+    "name": "Clinique du Voyageur du Grand Montréal - Montréal Centre-Ville",
+    "latitude": 45.497526,
+    "longitude": -73.567193
+  },
+  {
+    "id": 10013,
+    "type": "health",
+    "name": "Super-Clinique Medicale et Centre de Physiotherapie Forcemedic",
+    "latitude": 45.54218,
+    "longitude": -73.612507
+  },
+  {
+    "id": 10014,
+    "type": "health",
+    "name": "MunkMD Dermatology Clinic",
+    "latitude": 45.4965723,
+    "longitude": -73.5811793
+  },
+  {
+    "id": 10015,
+    "type": "health",
+    "name": "Queen Elizabeth Health Complex",
+    "latitude": 45.4744921,
+    "longitude": -73.6066994
+  },
+  {
+    "id": 10016,
+    "type": "health",
+    "name": "Centre de Kinésiologie Appliquée de Montréal",
+    "latitude": 45.4883661,
+    "longitude": -73.5768171
+  },
+  {
+    "id": 10017,
+    "type": "health",
+    "name": "Centre de perfusion de Montréal",
+    "latitude": 45.4937205,
+    "longitude": -73.5836357
+  },
+  {
+    "id": 10018,
+    "type": "health",
+    "name": "Private Medical Clinic Montreal - ExcelleMD",
+    "latitude": 45.5328826,
+    "longitude": -73.6538667
+  },
+  {
+    "id": 10019,
+    "type": "health",
+    "name": "Centre de Santé Meraki",
+    "latitude": 45.4907519,
+    "longitude": -73.5843919
+  },
+  {
+    "id": 10020,
+    "type": "health",
+    "name": "Promed Medical Centre",
+    "latitude": 45.50109,
+    "longitude": -73.57135699999999
+  },
+  {
+    "id": 11001,
+    "type": "health",
+    "name": "CLSC Metro",
+    "latitude": 45.4945406,
+    "longitude": -73.5809309
+  },
+  {
+    "id": 11002,
+    "type": "health",
+    "name": "CLSC de St-Henri",
+    "latitude": 45.4788276,
+    "longitude": -73.583788
+  },
+  {
+    "id": 11003,
+    "type": "health",
+    "name": "CLSC Montréal-Nord",
+    "latitude": 45.60698559999999,
+    "longitude": -73.6200369
+  },
+  {
+    "id": 11004,
+    "type": "health",
+    "name": "CLSC Saint Catherine",
+    "latitude": 45.5105943,
+    "longitude": -73.5629387
+  },
+  {
+    "id": 11005,
+    "type": "health",
+    "name": "CLSC de la Visitation",
+    "latitude": 45.5209783,
+    "longitude": -73.5589171
+  },
+  {
+    "id": 11006,
+    "type": "health",
+    "name": "CLSC Parc Extension",
+    "latitude": 45.5295752,
+    "longitude": -73.62100769999999
+  },
+  {
+    "id": 11007,
+    "type": "health",
+    "name": "CLSC de Benny Farm",
+    "latitude": 45.4655113,
+    "longitude": -73.6315789
+  },
+  {
+    "id": 11008,
+    "type": "health",
+    "name": "CLSC of Ville-Émard",
+    "latitude": 45.45718189999999,
+    "longitude": -73.5893115
+  },
+  {
+    "id": 11009,
+    "type": "health",
+    "name": "CLSC du Plateau-Mont-Royal",
+    "latitude": 45.5363181,
+    "longitude": -73.5739384
+  },
+  {
+    "id": 11010,
+    "type": "health",
+    "name": "CLSC Cote Des Neiges",
+    "latitude": 45.4983003,
+    "longitude": -73.62704049999999
+  },
+  {
+    "id": 11011,
+    "type": "health",
+    "name": "CLSC de Rosemont",
+    "latitude": 45.5426805,
+    "longitude": -73.5619245
+  },
+  {
+    "id": 11012,
+    "type": "health",
+    "name": "CLSC de Villeray",
+    "latitude": 45.5513929,
+    "longitude": -73.6208489
+  },
+  {
+    "id": 11013,
+    "type": "health",
+    "name": "CLSC Parthenais",
+    "latitude": 45.53099940000001,
+    "longitude": -73.5597894
+  },
+  {
+    "id": 11014,
+    "type": "health",
+    "name": "CLSC St-Louis-Du-Parc",
+    "latitude": 45.5199682,
+    "longitude": -73.5869111
+  },
+  {
+    "id": 11015,
+    "type": "health",
+    "name": "CLSC de La Petite-Patrie",
+    "latitude": 45.534644,
+    "longitude": -73.60524769999999
+  },
+  {
+    "id": 11016,
+    "type": "health",
+    "name": "CLSC Saint-Michel",
+    "latitude": 45.5654415,
+    "longitude": -73.6084558
+  },
+  {
+    "id": 11017,
+    "type": "health",
+    "name": "CLSC d'Ahuntsic",
+    "latitude": 45.560648,
+    "longitude": -73.665982
+  },
+  {
+    "id": 11018,
+    "type": "health",
+    "name": "CLSC Olivier-Guimond",
+    "latitude": 45.5749396,
+    "longitude": -73.54773329999999
+  },
+  {
+    "id": 11019,
+    "type": "health",
+    "name": "CLSC de Bordeaux-Cartierville",
+    "latitude": 45.5412145,
+    "longitude": -73.6904958
+  },
+  {
+    "id": 11020,
+    "type": "health",
+    "name": "CLSC de Hochelaga-Maisonneuve",
+    "latitude": 45.5514409,
+    "longitude": -73.54106159999999
+  }
+]
